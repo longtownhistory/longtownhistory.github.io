@@ -1,0 +1,18 @@
+---
+title: "Archive Items"
+layout: page
+permalink: "/items"
+---
+
+{{ content }}
+
+<div class="row listrecent"> 
+{% assign pages_list = docs %}
+{% for item in site.items %}
+{% comment %}{% raw %}{% if item.shortdesc != null %}{% endraw %}{% endcomment %}
+{% include itembox.html %}
+{% comment %}{% raw %}{% endif %}{% endraw %}{% endcomment %}
+{% endfor %}
+</div>    
+
+<!--swipe through photos so one is larger and the small thumbnails show at the bottom; do we need thumbnails for each photo or can I do that automatically?-->

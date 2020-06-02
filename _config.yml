@@ -1,0 +1,43 @@
+# Site
+name: "Remembering Freedom Longtown History Harvest"
+title: "Remembering Freedom Longtown History Harvest"
+description: ""
+meta_description: "Remembering Freedom Longtown History Harvest"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: 
+google_analytics: ''
+mailchimp-list: 
+include: ["_pages"]
+permalink: /:title/
+
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+collections:
+  contributors:
+    output: true
+    permalink: /:collection/:path:output_ext
+    name: true
+    folder: true
+  items:
+    output: true
+    permalink: /:collection/:path:output_ext
+    itemid: true
+    itemlabel: true
