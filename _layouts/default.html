@@ -60,8 +60,8 @@ ga('send', 'pageview');
     
     <!-- Begin Logo -->
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    History Harvest</a>
+    <!--<img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">-->
+    Remembering Greenville: Longtown History Harvest</a>
     <!-- End Logo -->
   
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -75,20 +75,12 @@ ga('send', 'pageview');
         
             <ul class="navbar-nav ml-auto">
                 
-<!--                {% if page.url == "/" %}
+			  {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
-                </li>
--->
-		  {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/stories">H301 Histories</a>
+                <a class="nav-link" href="{{ site.baseurl }}/contributors">Longtown Contributors</a>
                 </li>
 
                  
@@ -97,31 +89,9 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/items">IUB History Harvest Artifacts</a>
+                <a class="nav-link" href="{{ site.baseurl }}/event">History Harvest Reaping Day</a>
                 </li>
- 
-
-<!-- 		{% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/archiveitems">Related Museum & Archival Objects</a>
-                </li>
-
-               
-                {% if page.url == "/about.html" %}
-                <li class="nav-item active">
-                {% else %}
-                <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
-                </li>
--->                
-                
-                
-                {% include search-lunr.html %}
-                
+                 
             </ul>		
         
         
@@ -158,42 +128,9 @@ ga('send', 'pageview');
     {{ content }}
 </div>
 
-{% if site.mailchimp-list %}
-<!-- Bottom Alert Bar
-================================================== -->
-<div class="alertbar">
-	<div class="container text-center">
-		<span><img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
-        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-            <div class="mc-field-group">
-            <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
-            </div>
-        </form>
-	</div>
-</div>    
-{% endif %}
     
 </div><!-- /.container>
     
-<!-- Categories Jumbotron
-================================================== -->
-<div class="jumbotron fortags">
-	<div class="d-md-flex h-100">
-		<div class="col-md-4 transpdark align-self-center text-center h-100">
-            <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore <span class="d-none d-md-inline">→</span></h2>
-            </div>
-		</div>
-		<div class="col-md-8 p-5 align-self-center text-center">      
-
- 			<a href="{{ site.baseurl }}/items">IUB History Harvest Artifacts</a>
-            <a href="{{ site.baseurl }}/archiveitems">Related Museum & Archival Objects</a>
-		</div>
-	</div>
-</div>
- 
-
 
 <!-- Begin Footer
 ================================================== -->
