@@ -1,15 +1,12 @@
 ---
 layout: default
 title: History Harvest Artifacts
-permalink: /contributors/index.html
+permalink: /contributors/
 comments: false
 ---
 
-<ul>
-{% assign typesort = site.data.contributors | sort: 'type' %}
-{% for contributor in typesort %}
-  <li>
-    {{ contributor.name }} stored in {{ contributor.name }}
-  </li>
+{% for contributor in site.contributors %}
+  <h2><a href="{{ contributor.url }}">{{ contributor.name }}</a></h2>
+
 {% endfor %}
-</ul>
+

@@ -9,9 +9,12 @@ permalink: "/items"
 <div class="row listrecent"> 
 {% assign pages_list = docs %}
 {% for item in site.items %}
-{% comment %}{% raw %}{% if item.shortdesc != null %}{% endraw %}{% endcomment %}
-{% include itembox.html %}
-{% comment %}{% raw %}{% endif %}{% endraw %}{% endcomment %}
+{% if item.itemcontributor == page.folder %}
+{% comment %}{% include itembox.html %}{% endcomment %}
+
+{{ item.itemcontributor}}: {{ item.itemgroupname}} {{ item.itemname}} <img src="/assets/collections/{{ item.itemcontributor }}/{{ item.itemid }}.jpg">
+
+{% endif %}
 {% endfor %}
 </div>    
 
