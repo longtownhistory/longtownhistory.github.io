@@ -1,5 +1,5 @@
 ---
-layout: items
+layout: descendants
 folder: huffman
 name: Tera Crawford Huffman
 ---

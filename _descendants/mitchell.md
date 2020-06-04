@@ -1,5 +1,5 @@
 ---
-layout: items
+layout: descendants
 folder: mitchell
 name: Joyce M. Mitchell
 ---

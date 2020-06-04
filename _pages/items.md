@@ -1,6 +1,6 @@
 ---
 layout: items
-title: History Harvest Contributors
+title: History Harvest Items
 permalink: /items/index.html
 comments: false
 ---

@@ -1,5 +1,5 @@
 ---
-layout: items
+layout: descendants
 folder: rickman
 name: Woodrow W. Rickman II
 ---

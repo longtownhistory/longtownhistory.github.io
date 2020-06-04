@@ -1,5 +1,5 @@
 ---
-layout: items
+layout: descendants
 folder: smothers
 name: Roane Smothers
 ---
