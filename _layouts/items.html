@@ -9,10 +9,10 @@ permalink: "/items"
 <div class="row listrecent"> 
 {% assign pages_list = docs %}
 {% for item in site.items %}
-{% if item.itemcontributor == page.folder %}
+{% if item.itemdescendant == page.folder %}
 {% comment %}{% include itembox.html %}{% endcomment %}
 
-{{ item.itemcontributor}}: {{ item.itemgroupname}} {{ item.itemname}} <img src="/assets/collections/{{ item.itemcontributor }}/{{ item.itemid }}.jpg">
+{{ item.itemdescendant}}: {{ item.itemgroupname}} {{ item.itemname}} <img src="/assets/collections/{{ item.itemdescendant }}/{{ item.itemid }}.jpg">
 
 {% endif %}
 {% endfor %}

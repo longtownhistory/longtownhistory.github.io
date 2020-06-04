@@ -21,8 +21,8 @@
             <h2 class="card-title">
                 <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
             </h2>
-                {% if item.itemcontributor %}
-                <span class="post-name">{{ item.itemcontributor }}</span><br/>
+                {% if item.itemdescendant %}
+                <span class="post-name">{{ item.itemdescendant }}</span><br/>
                 {% endif %}
             <h4 class="card-text">{{ item.shortdesc | strip_html | truncatewords:30 }}</h4>            
         </div>

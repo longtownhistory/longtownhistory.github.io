@@ -30,7 +30,7 @@ kramdown:
       line_numbers: true
 
 collections:
-  contributors:
+  descendants:
     output: true
     permalink: /:collection/:path:output_ext
     name: true
@@ -39,7 +39,7 @@ collections:
   items:
     output: true
     permalink: /:collection/:path:output_ext
-    itemcontributor: true
+    itemdescendant: true
     itemgroupid: true
     itemgroupname: true
     itemid: true
