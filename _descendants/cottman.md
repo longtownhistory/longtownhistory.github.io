@@ -1,5 +1,5 @@
 ---
 layout: descendants
 folder: cottman
-name: Ricky Cottman
+title: Ricky Cottman
 ---

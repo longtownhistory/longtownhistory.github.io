@@ -1,5 +1,5 @@
 ---
 layout: descendants
 folder: hope
-name: Patricia Hope
+title: Patricia Hope
 ---

@@ -1,6 +1,6 @@
 ---
 layout: descendants
 folder: collins
-name: Gladys Collins
+title: Gladys Collins
 ---
 

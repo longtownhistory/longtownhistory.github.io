@@ -1,5 +1,5 @@
 ---
 layout: descendants
 folder: miller
-name: Richard Arthur Miller
+title: Richard Arthur Miller
 ---

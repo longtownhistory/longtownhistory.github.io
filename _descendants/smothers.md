@@ -1,5 +1,5 @@
 ---
 layout: descendants
 folder: smothers
-name: Roane Smothers
+title: Roane Smothers
 ---

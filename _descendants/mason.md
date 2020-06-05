@@ -1,5 +1,5 @@
 ---
 layout: descendants
 folder: mason
-name: Cleo Fay Goens Mason
+title: Cleo Fay Goens Mason
 ---

@@ -1,5 +1,5 @@
 ---
 layout: descendants
 folder: jett
-name: Brenda Jett
+title: Brenda Jett
 ---

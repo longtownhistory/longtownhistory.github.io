@@ -11,7 +11,11 @@ tags: [  ]
 -->
 <!-- begin post -->
 
-{% capture ItemImagePath %}assets/{{ item.itemdescendant }}/{{ item.itemgroupid }}_th{% endcapture %}
+{% if item.itemgroupid %}{% assign thumbnail = item.itemgroupid %}{% else %}{% assign thumbnail = item.itemid %}{% endif% %}
+{% if item.itemgroupname %}{% assign itemtitle = item.itemgroupname %}{% else %}{% assign itemtitle = item.itemname %}{% endif% %}
+
+{% assign contributor = site.descendants | where: "folder", item.itemdescendant  | first %}
+{% capture ItemImagePath %}assets/collections/{{ item.itemdescendant }}/{{ thumbnail }}_th{% endcapture %}
 {% for static_file in site.static_files %}
 {% if static_file.path contains ItemImagePath %}
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -23,10 +27,10 @@ tags: [  ]
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a href="{{ site.baseurl }}{{ item.url }}">{{ item.itemgroupname }}</a>
+                <a href="{{ site.baseurl }}{{ item.url }}">{{ itemtitle }}</a>
             </h2>
-                {% if item.itemdescendant %}
-                <span class="post-name">{{ item.itemdescendant }}</span><br/>
+                {% if contributor.title %}</a>
+                <span class="post-name">from the collection of <a href="{{ contributor.url }}">{{ contributor.title }}</a></span><br/>
                 {% endif %}
             <h4 class="card-text">{{ item.shortdesc | strip_html | truncatewords:30 }}</h4>            
         </div>
