@@ -9,7 +9,7 @@ layout: page
 {% if item.itemdescendant == page.folder %}
 {% comment %}{% include itembox.html %}{% endcomment %}
 
-{{ item.itemdescendant}}: {{ item.itemgroupname}} {{ item.itemname}} <img src="/assets/collections/{{ item.itemdescendant }}/{{ item.itemid }}.jpg">
+{{ item.itemdescendant}}: {{ item.itemgroupname}}, {{ item.itemname}} <img src="/assets/collections/{{ item.itemdescendant }}/{{ item.itemid }}.jpg">
 
 {% endif %}
 {% endfor %}

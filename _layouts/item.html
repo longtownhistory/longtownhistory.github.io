@@ -1,121 +1,70 @@
 ---
-title: "Items"
+title: "Item"
 layout: default
-permalink: "/items"
 ---
 
-<!-- Begin Article
-================================================== -->
-<div class="container">
-	<div class="row">
+{% if page.itemid %}
+{% assign contributor = site.descendants | where: "folder", page.itemdescendant  | first %}
+{% endif %}
 
-		<!-- Post Share -->
-		<div class="col-md-2 pl-0">            
-           {% include share.html %}
-		</div>
-		
-
-		<!-- Post -->        
-        {% assign author = site.authors[page.author] %}
-        
-		<div class="col-md-9 flex-first flex-md-unordered">
-			<div class="mainheading">
-
-			<!-- Post Title -->
-			<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
-			<h1 class="posttitle">{{ page.title }}</h1>
-			</div>
-			<p>Contributed by {{ page.itemdescendant }} {% if page.itemindianacity %}({{ page.itemindianacity }}){% endif %}
-			{% if page.itemacquiredwhere or page.itemdatemade %}
-			<p>
-			{% if page.itemacquiredwhere %}Acquired in {{ page.itemacquiredwhere }}. {% endif %}
-			{% if page.itemdatemade %}Acquired on {{ page.itemdatemade }}. {% endif %}
-			{% endif %}
-			<!-- Post Tags and Categories -->
-			<ul class="tags">
-				{% assign sortedCategories = page.categories | sort %}
-					{% for category in sortedCategories %}
-					<li>                        
-					 <a class="smoothscroll" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }} artifacts</a>
-					</li>
-					{% endfor %}
-				{% for tag in page.tags %}
-				<li>                        
-				 <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
-				</li>
-				{% endfor %}
-			</ul>
-			<!-- End Tags and Categories -->
-		</div>
-
-			<!-- Post Featured Image -->
-			{% if page.itemphoto %}<img class="featured-image img-fluid" src="{{ page.itemphoto }}" alt="{{ page.title }}">
-			{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
-			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
-			<!-- End Featured Image -->
-
-			<!-- Post Content -->
-			<div class="article-post">
-				{%if page.itemabout %}<h4 id="about-this-object">About this object</h4>
-					{{ page.itemabout | markdownify }}{% endif %}
-
-				{%if page.itemquote %}<h4 id="why-this-object-matters"> Why this object matters</h4>
-					<blockquote>{{ page.itemquote | markdownify }}</blockquote>{% endif %}
-			
-			
-			{{ content }}
-			
-			</div>
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.itemgroupname }}</span></h2>
+        <p>Contributed by <a href="{{ contributor.url }}">{{ contributor.title }}</a>
+    </div>
+    
+    <div class="article-post">
+    {{content}}
+    </div>
+    
+</section>
 
 
-			<div class="element-set">
+{% if static_file.path contains 'th' %}{% capture ItemImagePath %}assets/collections/{{ page.itemdescendant }}/{{ page.itemgroupid }}{% endcapture %}
+{% else %}{% capture ItemImagePath %}assets/collections/{{ page.itemdescendant }}/{{ page.itemid }}{% endcapture %}
+{% endif %}
+{% for static_file in site.static_files %}
+{% if static_file.path contains 'th' %}
+{% elsif static_file.path contains ItemImagePath %}
 
-				<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
-				<h2 id="Dublin Core"><span class="text-capitalize">Dublin Core</span></h2>
-				</div>
-				{%if page.itemarchive %}
-				<h4>Originating Archive Object</h4>
-				{%if page.archiveurl %}<a href="{{ page.archiveurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.itemarchive}}{%if page.itemid %} {{ page.itemid}}{% endif %}</div>{%if page.archiveurl %}</a>{% endif %}
-				{% endif %}
-					<div id="dublin-core-title" class="element">
-				<h4>Title</h4>
-					{%if page.itemurl %}<a href="{{ page.itemurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
-					</div><!-- end element -->
-				<div id="dublin-core-subject" class="element">
-				<h4>Subject</h4>
-							<div class="element-text">{%if page.itemsubjecturl %}<a href="{{ page.itemsubjecturl }}" target="_blank">{% endif %}{{ page.itemsubject }}{%if page.itemsubjecturl %}</a>{% endif %}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-description" class="element">
-				<h4>Description</h4>
-							<div class="element-text">{{ page.shortdesc }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-creator" class="element">
-				<h4>Creator</h4>
-							<div class="element-text">{{ page.itemcreator }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-contributor" class="element">
-				<h4>Contributor</h4>
-							<div class="element-text">{{ page.itemdescendant }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-date" class="element">
-				<h4>Date</h4>
-							<div class="element-text">{{ page.itemdate }}</div>
-					</div><!-- end element -->
-				<div id="dublin-core-type" class="element">
-				<h4>Type</h4>
-							<div class="element-text">{{ page.itemtype }}</div>
-					</div><!-- end element -->
-			</div><!-- end element-set -->
+<img src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">
+{% endif %}
+{% endfor %}
 
-                        
-            <!-- End Categories -->
 
-		</div>
-		<!-- End Post -->
+<div class="element-set">
 
+	<div class="section-title col-md-12 mt-4" style="padding-left: 0;">
+	<h2 id="Dublin Core"><span class="text-capitalize">Dublin Core</span></h2>
 	</div>
-</div>
-<!-- End Article
-================================================== -->
+		<div id="dublin-core-title" class="element">
+	<h4>Title</h4>
+		{%if page.itemurl %}<a href="{{ page.itemurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
+		</div><!-- end element -->
+	<div id="dublin-core-subject" class="element">
+	<h4>Subject</h4>
+				<div class="element-text">{%if page.itemsubjecturl %}<a href="{{ page.itemsubjecturl }}" target="_blank">{% endif %}{{ page.itemsubject }}{%if page.itemsubjecturl %}</a>{% endif %}</div>
+		</div><!-- end element -->
+	<div id="dublin-core-description" class="element">
+	<h4>Description</h4>
+				<div class="element-text">{{ page.shortdesc }}</div>
+		</div><!-- end element -->
+	<div id="dublin-core-creator" class="element">
+	<h4>Creator</h4>
+				<div class="element-text">{{ page.itemcreator }}</div>
+		</div><!-- end element -->
+	<div id="dublin-core-contributor" class="element">
+	<h4>Contributor</h4>
+				<div class="element-text">{{ page.itemdescendant }}</div>
+		</div><!-- end element -->
+	<div id="dublin-core-date" class="element">
+	<h4>Date</h4>
+				<div class="element-text">{{ page.itemdate }}</div>
+		</div><!-- end element -->
+	<div id="dublin-core-type" class="element">
+	<h4>Type</h4>
+				<div class="element-text">{{ page.itemtype }}</div>
+		</div><!-- end element -->
+</div><!-- end element-set -->
 
   

@@ -1,5 +1,7 @@
-{% if page.name %}{% assign page.title = page.name %}{% endif %}
-{{ page.title }}
+{% if page.itemid %}
+{% assign contributor = site.descendants | where: "folder", page.itemdescendant  | first %}
+{% capture title %}{{contributor.title }} -- {{page.itemgroupname}}{% endcapture %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +10,7 @@
     
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-<title>{{ page.title }} | {{site.name}}</title>
+<title>{% if title %}{{title}}{% else %}{{ page.title }}{% endif %} | {{site.name}}</title>
         
     
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -84,6 +86,14 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/descendants">Longtown Descendants</a>
                 </li>
 
+			  {% if page.url == "/" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="{{ site.baseurl }}/items">History Harvest Items</a>
+                </li>
+
                  
                  {% if page.url == "/" %}
                 <li class="nav-item active">
@@ -126,6 +136,7 @@ ga('send', 'pageview');
 <!-- Content
 ================================================== --> 
 <div class="main-content">
+
     {{ content }}
 </div>
 
