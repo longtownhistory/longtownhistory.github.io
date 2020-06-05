@@ -1,25 +1,29 @@
+<!--
+itemid: 15h_5
+itemdescendant: jett
+itemgroupid: 15h
+itemgroupname: Women's cape (black and floral material)
+itemname: 5
+itemtype: physical object
+shortdesc: 
+categories: [  ]
+tags: [  ]
+-->
 <!-- begin post -->
-{% assign author = site.authors[item.author] %}
 
+{% capture ItemImagePath %}assets/{{ item.itemdescendant }}/{{ item.itemgroupid }}_th{% endcapture %}
+{% for static_file in site.static_files %}
+{% if static_file.path contains ItemImagePath %}
 <div class="col-lg-4 col-md-6 mb-30px card-group">
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ item.url }}">
-			{% if item.itemphoto %}
-				<img class="img-fluid" src="{{ item.itemphoto }}" alt="{{ page.title }}">
-			{% elsif item.itemid %}
-				{% capture ItemImagePath %}assets/items/{{ item.itemid }}_th{% endcapture %}
-				{% for static_file in site.static_files %}
-					{% if static_file.path contains ItemImagePath %}
-						<img class="img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">
-					{% endif %}
-				{% endfor %}
-			{% endif %}
+						<img class="img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ item.itemgroupname }}">
             </a>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+                <a href="{{ site.baseurl }}{{ item.url }}">{{ item.itemgroupname }}</a>
             </h2>
                 {% if item.itemdescendant %}
                 <span class="post-name">{{ item.itemdescendant }}</span><br/>
@@ -41,4 +45,6 @@
         </div>
     </div>
 </div>
+{% endif %}
+{% endfor %}
 <!-- end post -->
