@@ -19,7 +19,7 @@ tags: [  ]
 {% for static_file in site.static_files %}
 {% if static_file.path contains ItemImagePath %}
 <div class="col-lg-4 col-md-6 mb-30px card-group">
-    <div class="card h-100">
+    <div class="card">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ item.url }}">
 						<img class="img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ item.itemgroupname }}">
@@ -30,19 +30,12 @@ tags: [  ]
                 <a href="{{ site.baseurl }}{{ item.url }}">{{ itemtitle }}</a>
             </h2>
                 {% if contributor.title %}</a>
-                <span class="post-name">from the collection of <a href="{{ contributor.url }}">{{ contributor.title }}</a></span><br/>
+                <h4 class="card-text">from the collection of <a href="{{ contributor.url }}">{{ contributor.title }}</a></h4>            
                 {% endif %}
-            <h4 class="card-text">{{ item.shortdesc | strip_html | truncatewords:30 }}</h4>            
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="author-meta">
-                <span class="post-date">
-               {% assign sortedCategories = item.categories | sort %}
-               {% for category in sortedCategories %}
-               <a class="btn follow" href="{{site.baseurl}}/groups#{{ category | replace: " ","-" }}">{{ category }}</a>
-               {% endfor %}
-               </span>
                 </span>
                 <div class="clearfix"></div>
             </div>

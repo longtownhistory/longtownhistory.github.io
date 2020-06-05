@@ -1,0 +1,1 @@
+<?php$string = file_get_contents("LongtownToSplit.txt");$Pages = explode("NEWITEM", $string);for ($I = 0; $I < count($Pages); $I++){	$ObjectInfo = explode("|", $Pages[$I]);	$ObjectID = $ObjectInfo[0];	$Body = $bodytag = str_replace("_____", "\n", $ObjectInfo[1]);	file_put_contents($ObjectID.".md", $Body);	unset($Body,$ObjectID,$ObjectInfo);}?>

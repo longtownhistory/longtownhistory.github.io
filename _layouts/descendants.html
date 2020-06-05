@@ -5,7 +5,6 @@ layout: page
 {{ content }}
 
 <div class="row listrecent"> 
-{% assign pages_list = docs %}
 {% for item in site.items %}
 {% if item.itemdescendant == page.folder %}
 {% comment %}{% include itembox.html %}{% endcomment %}
