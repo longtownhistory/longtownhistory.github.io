@@ -10,10 +10,12 @@ layout: default
 <section>
     <div class="section-title">
         <h2><span>{{ page.itemgroupname }}</span></h2>
-        <p>Contributed by <a href="{{ contributor.url }}">{{ contributor.title }}</a>
+        <p>From the collection of <a href="{{ contributor.url }}">{{ contributor.title }}</a>
     </div>
     
     <div class="article-post">
+    {% if page.itemid %}<p>{{ page.itemname }}{% endif %}
+    {% if page.itemid %}<p>{{ page.shortdesc }}{% endif %}
     {{content}}
     </div>
     
