@@ -5,8 +5,33 @@ permalink: /about
 comments: false
 ---
 
-Every day, we make history. It's in what we eat, what we say, what we post to social media. It's also in our homes, our backpacks and our classrooms.
+This online archive sits at the intersection of several historians' efforts, an ongoing community self-preservation effort that is centuries in the works, and a History-Harvest tradition that supports all of these practices.
 
-We each started the semester with an object that's important to us. Now we want to know what object you have that's significant to **you**. The things here are our Hoosier history.
+As we explored the theory bhind digial public engagement, we began to engage more deeplyw ith the community's need to own and manage their own history and we began to think more fully about how institutional support and partnership in stabilizing the content from the FB page might help support the community need to have an easy-to-use centralized platform that fed a stable archive.
 
-*[Contribute to the History Harvest!](https://docs.google.com/forms/d/e/1FAIpQLScnAh6QqC09MJleFKIM7MMxayxLX2HFWQAoQvzNXnpdD8vU4w/viewform?usp=sf_link)*
+
+<!-- Labor also matters http://www.neatline.org/credits/ and look at our credits page so that you can see how people contributed and how we acknowledge the iportance of those contributions from a variety of places.-->
+
+The historians:
+
+- 1 academic historian of Black women's history
+- 1 community historian who organized the Longtown reunion and gave permission
+- 1 community historian whose preservation efforts are visible in a very active facebook page
+- 1 community historian whose preservation efforts are visible in the practical organizing of practical archival stuff (Jazma help!)
+- 1 community historian whose work on a family history can be seen here in this History Harvest and whose work as a visually-impaired historian structures much of the accessbiility of both her work and this archive
+- 1 community historian whose work devloping a tour of Longtown gives onlien readers access to the built environment fo Longtown and greenville.
+
+The descendants:
+- List from items and oral histories with room to add folks
+
+The History Harvest crew:
+- Jazma
+- Chavonte
+- Michelle
+- Justin
+- Kennedi
+- Victoria
+- Kalani
+- Maks
+- Lillian
+- Matt

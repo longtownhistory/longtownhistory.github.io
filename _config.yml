@@ -43,3 +43,9 @@ collections:
     itemgroupid: true
     itemgroupname: true
     itemid: true
+  oralhistories:
+    output: true
+    permalink: /:collection/:path:output_ext
+    name: true
+    folder: true
+    sort_by: folder

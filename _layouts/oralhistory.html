@@ -1,0 +1,25 @@
+---
+title: "oralhistory"
+layout: default
+---
+
+{% if page.folder == undefined %}
+	{% assign interviewee = page.interviewee %}
+{% else %}
+	{% assign contributor = site.descendants | where: "folder", page.folder  | first %}
+	{% assign interviewee = contributor.title%}	
+{% endif %}
+
+<section>
+    <div class="section-title">
+        <h2><span>Interview with {% if contributor.url %}<a href="{{ contributor.url }}">{% endif %}{{ interviewee }}{% if contributor.url %}</a>{% endif %}</span></h2>
+    </div>
+    
+    <div class="article-post">
+    {% if page.interviewer %}<p><em>Interviewer: {{ page.interviewer }}</em>{% endif %}
+    {% if contributor.mainitem %}<a href="{{ contributor.url }}">
+						<img class="img-fluid" style="float:right" src="{{ site.baseurl }}/assets/collections/{{ contributor.folder}}/{{contributor.mainitem}}_th.jpg" alt="{{ contributor.title }}"></a>{% endif %}
+    {{content}}
+    </div>
+    
+</section>

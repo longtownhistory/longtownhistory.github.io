@@ -41,7 +41,7 @@ layout: default
 	</div>
 		<div id="dublin-core-title" class="element">
 	<h4>Title</h4>
-		{%if page.itemurl %}<a href="{{ page.itemurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.title }}</div>{%if page.itemurl %}</a>{% endif %}
+		{%if page.itemurl %}<a href="{{ page.itemurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.itemgroupname }}</div>{%if page.itemurl %}</a>{% endif %}
 		</div><!-- end element -->
 	<div id="dublin-core-subject" class="element">
 	<h4>Subject</h4>
@@ -51,13 +51,9 @@ layout: default
 	<h4>Description</h4>
 				<div class="element-text">{{ page.shortdesc }}</div>
 		</div><!-- end element -->
-	<div id="dublin-core-creator" class="element">
-	<h4>Creator</h4>
-				<div class="element-text">{{ page.itemcreator }}</div>
-		</div><!-- end element -->
 	<div id="dublin-core-contributor" class="element">
 	<h4>Contributor</h4>
-				<div class="element-text">{{ page.itemdescendant }}</div>
+				<div class="element-text">{{ contributor.title }}</div>
 		</div><!-- end element -->
 	<div id="dublin-core-date" class="element">
 	<h4>Date</h4>
