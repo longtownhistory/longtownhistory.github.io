@@ -7,9 +7,6 @@ permalink: /oralhistories/
 
 <div class="row listrecent"> 
 <ul>
-
-
-
 {% for oralhistory in site.oralhistories %}
 {% if oralhistory.folder == undefined %}
 	{% assign interviewee = oralhistory.interviewee %}
