@@ -6,6 +6,8 @@ permalink: /
 
 ### The History of the free African American farming community of Greenville/Longtown
 
+<div style="float:right;" class="fb-page" data-href="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850" data-tabs="timeline" data-width="500" data-height="750" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850">Remembering Freedom: James Clemens and the Longtown Settlement</a></blockquote></div>
+
 
 > When I went to Palestine [Ohio] in junior high, it was so prejudiced, and then you know we’re free here, at home. This is home. This is safety. This is free.... No matter where you go, how old you are, when you go home, you’re home. That’s here. That’s Longtown.
 --Patricia Hope, Longtown resident
@@ -18,4 +20,4 @@ This History Harvest, which took place in September 2019, is just one project am
 - A [multi-family exhibit](/items) of the items that preserve Longtown's history in its descendants' homes
 - A [tour of Longtown](/event) and guide to the [homecoming event](/event) at which the history harvest took place
 
-Descendants of the Greenville/Longtown community have been working for years to preserve their history in a variety of ways. This History Harvest (footnote) is just one of those efforts. By bringing History Harvests and groundswell practices of community preservation to bear on the practices of traditional archival work, we can refocus the work of a historian. Traditional archives highlight the silence and the erasure of Black women; History Harvests, on the other hand, are more about abundance and joy, and the recentering of community voices that were once silent.
+Descendants of the Greenville/Longtown community have been working for years to preserve their history in a variety of ways, including a [very active Facebook community-run historical preservation page](https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850/). This History Harvest (footnote) is just one of those efforts. By bringing History Harvests and groundswell practices of community preservation to bear on the practices of traditional archival work, we can refocus the work of a historian. Traditional archives highlight the silence and the erasure of Black women; History Harvests, on the other hand, are more about abundance and joy, and the recentering of community voices that were once silent.
