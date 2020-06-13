@@ -5,12 +5,7 @@ interviewee: Roane Smothers
 interviewer: Justin Hawkins
 ---
 
-*J: This is Justin, this is the 2019 History Harvest, collection of
-archaeological, what was included in that?*
-
-**Roane**: Um, the archaeological dig done by Ball State in 20… ah I can’t remember the year… 2012 they, we had an artifacts collected by an archaeologist on the Union Literary Institute site, 3 acres.
-
-*J: And this is number 14. So, also, can you explain who you are and the organization
+*J: Can you explain who you are and the organization
 that you are the president of?*
 
 **Roane**: My name is Roane Smothers, I’m a Longtown descendant, and president of the
