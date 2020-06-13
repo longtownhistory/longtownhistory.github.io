@@ -6,12 +6,12 @@ interviewer: Justin Hawkins
 ---
 
 *J: This is Justin, this is the 2019 History Harvest, collection of
-archaeological, what was included in that?
+archaeological, what was included in that?*
 
 **Roane**: Um, the archaeological dig done by Ball State in 20… ah I can’t remember the year… 2012 they, we had an artifacts collected by an archaeologist on the Union Literary Institute site, 3 acres.
 
 *J: And this is number 14. So, also, can you explain who you are and the organization
-that you are the president of?
+that you are the president of?*
 
 **Roane**: My name is Roane Smothers, I’m a Longtown descendant, and president of the
 Union Literary Institute Preservation Society.
@@ -21,7 +21,7 @@ preserve the Union Literary Institute structure.
 include all buildings of the Longtown settlement, which includes those on Indiana and Ohio side.
 
 *J: And why don’t you explain a little bit of what the historic society is, with the Union
-Literary Society.
+Literary Society.*
 
 **Roane**: Well, it’s to preserve the Union Literary Institute, which was a school established in
 1845, started taking students in 1846, was a coeducational, non-racial, accepted blacks, whites,
@@ -39,7 +39,7 @@ taught African-Americans in the 1840’s about, um, agriculture.
  Which is something radical?.
 
 *J: How does having this history give you a sense of identity, community, what does it
-mean to you?
+mean to you?*
 
 **Roane**: What does it mean to me? Um, I grew up in Detroit, Michigan.
  I had some sense of
@@ -62,7 +62,7 @@ my mother’s family.
 family is a part of.
  Is that…?
  
-*J: Sure!
+*J: Sure!*
 
 **Roane**: Also was a… visited the location, um, I saw graves dating before 1865.
  And, now, I
@@ -117,7 +117,8 @@ Warren County, where his son and nephew lived.
  And then, took his freed slaves up to Darke
 County where he purchased land.
  *sighs* Do you want more?
-*J: Well, it’s really whatever you wanna share.
+ 
+*J: Well, it’s really whatever you wanna share.*
 
 **Roane**: You can read the National Register nomination of the James and Sophia Clemens
 farmstead, which is on the National Register of Historic Places, also because they were involved
@@ -129,7 +130,7 @@ National Register as an archaeological site, because the building is in such bad
 National Register of Historic Places.
 
 *J: And I guess my big question for you would be what does ‘freedom’ mean to you, to
-this community, to your family?
+this community, to your family?*
 
 **Roane**: Um, what I learned was, um, my family was free a long, long, long time ago.
  Before
@@ -155,7 +156,4 @@ masonry in Richmond, Indiana.
 born and grew up.
  So, I still didn’t know the story of this particular area.
 
-*J: Thank you!
-
-**Roane**: There’s a lot more, I just didn’t…
-
+*J: Thank you!*
