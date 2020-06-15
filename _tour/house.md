@@ -1,12 +1,11 @@
 ---
 layout: tour
 building: farmhouse
-folder: 
-title: 
+folder: smothers
+title: "James and Sophia Clemens' Farmhouse"
 interviewer: Jazma Sutton
 ---
 
-*Interviewer: Jazma Sutton, Rowan’s mother’s town tour.*
 
 *Participant:* Gonna try and get Anna-lisa Cox’s book, get that out as much as possible because that talks about....
 
