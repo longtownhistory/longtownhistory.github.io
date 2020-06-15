@@ -49,3 +49,9 @@ collections:
     name: true
     folder: true
     sort_by: folder
+  tours:
+    output: true
+    permalink: /:collection/:path:output_ext
+    name: true
+    folder: true
+    sort_by: building
