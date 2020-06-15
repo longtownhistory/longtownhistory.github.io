@@ -6,7 +6,6 @@ permalink: /descendants/
 ---
 
 <h2>Oral Histories</h2><ul>
-<table><tr><td valign=top>
 {% for oralhistory in site.oralhistories %}
 {% if oralhistory.folder == undefined %}
 	{% assign interviewee = oralhistory.interviewee %}
@@ -17,10 +16,8 @@ permalink: /descendants/
 <li><a href="{{ oralhistory.url }}">{{interviewee}}</a></li>
 {% endfor %}
 </ul>
-</td><td valign=top markdown=1>
+
 > "By memory, those fond associations and ties of love which unite us together on earth, will be preserved in eternity...Memory should be cultivated. Like all other faculties of the mind and body, its vigor and activity depend on its exercise. The more the memory is exercised the stronger it becomes." -J. B. Harrison, Greenville Settlement, 1864
-</td>
-</tr></table>
 
 <h2>Descendants' Historical Collections</h2>
 <div class="row listrecent"> 
