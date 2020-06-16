@@ -3,6 +3,38 @@
 # Change this file for any custom CSS.
 ---
 
+body {
+background: #fbf2e3;
+}
+a {
+     color:#733d15;
+}
+a:hover {
+     color: #9f6233;
+} 
+
+.mediumnavigation .form-inline .btn:hover,.mediumnavigation .form-inline .btn:active {
+     background:transparent;
+     color:#9f6233;
+}
+
+blockquote {
+	border-left:4px solid #733d15;
+    color: #592a07;
+}
+
+.btn .follow {
+     border-color:#733d15;
+     color:#9f6233;
+}
+.btn .subscribe {
+     background-color:#9f6233;
+     border-color:#9f6233;
+}
+.alertbar input[type="submit"] {
+     background-color:#9f6233;
+     border:1px solid #9f6233;
+}
 /* We need to add display:inline in order to align the '>>' of the 'read more' link */
 .post-excerpt p {
 	display:inline;
