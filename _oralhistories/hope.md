@@ -2,7 +2,7 @@
 layout: oralhistory
 folder: hope
 interviewer: Victoria Jones
-excerpt: 
+excerpt: "Well, years ago when I was in grade school over here, we were all family. When I went to Palestine in junior high, it was so prejudiced, and then you know we’re free here, at home....No matter where you go, how old you are, when you go home, you’re home. That’s here. That’s Longtown."
 ---
 
 *V: I noticed you brought in a few items today. Would you mind listing what those items are?*

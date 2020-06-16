@@ -4,8 +4,26 @@
 ---
 
 body {
-background: #fbf2e3;
+	background: #fbf2e3;
+	font-family:'EB Garamond', serif;
+	color: #000;
 }
+
+p, ul, .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-family:'EB Garamond', serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    color: #592a07;
+}
+
+.section-title h2{
+	border-bottom: 1px solid #d5caa7;
+}
+.section-title span {
+	border-bottom: 1px solid #592a07;
+}
+
 a {
      color:#733d15;
 }
@@ -13,9 +31,17 @@ a:hover {
      color: #9f6233;
 } 
 
-.mediumnavigation .form-inline .btn:hover,.mediumnavigation .form-inline .btn:active {
-     background:transparent;
-     color:#9f6233;
+.mediumnavigation {
+     background:#592a07;
+     color:#fbf2e3;
+}
+
+.navbar-light a.navbar-brand, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active {
+	color: #d5caa7;
+}
+
+.navbar-light a.navbar-brand:hover, .navbar-nav .nav-item a.nav-link:hover {
+	color: #faf5e8;
 }
 
 blockquote {
@@ -23,12 +49,10 @@ blockquote {
     color: #592a07;
 }
 
-.btn .follow {
-     border-color:#733d15;
-     color:#9f6233;
+.btn.follow {
+     border-color:#9f6233;
 }
-.btn .subscribe {
-     background-color:#9f6233;
+.btn.subscribe {
      border-color:#9f6233;
 }
 .alertbar input[type="submit"] {
@@ -39,6 +63,15 @@ blockquote {
 .post-excerpt p {
 	display:inline;
 }
+
+.article-post {
+	font-family:'EB Garamond', serif;
+}
+.footer {
+     background: transparent;
+	color: #000;
+}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

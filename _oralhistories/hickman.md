@@ -2,7 +2,7 @@
 layout: oralhistory
 interviewee: Julia Boatman and Loretta Taylor (neé Hickman)
 interviewer: Justin Hawkins
-excerpt: 
+excerpt: "I liked to be outside, so my grandfather did have a couple of horses a long time ago. I was really too small to ride them, but I remember his horses. And then he had pigs. Oh, he raised a special pig. I don’t remember what kind it was, but every year at the fair, a long long time ago at the Darke County Fair, he actually entered these pigs into a contest...."
 ---
 
 J: Who do I have here today? 
