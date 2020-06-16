@@ -2,8 +2,18 @@
 layout: page
 ---
 
-{{ content }}
+{% if page.folder == undefined %}
+{% else %}
+	{% assign oralhistory = site.oralhistories | where: "folder", page.folder  | first %}
+{% endif %}
 
+
+{% if oralhistory.excerpt == undefined %}
+{% else %}
+<div class="row">
+<div class="col-s-12 col-md-8">
+{% endif %}
+  
 <div class="row listrecent"> 
 {% for item in site.items %}
 {% if item.itemdescendant == page.folder %}
@@ -11,6 +21,16 @@ layout: page
 {% endif %}
 {% endfor %}
 </div>    
+
+{% if oralhistory.excerpt == undefined %}
+{% else %}
+</div>
+<div class="col-s-6 col-md-4">{{ oralhistory.excerpt }}</div>
+</div>
+{% endif %}
+
+
+
 
 <!--
 >{% for item in site.items %}

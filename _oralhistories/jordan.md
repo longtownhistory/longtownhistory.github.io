@@ -3,6 +3,7 @@ layout: oralhistory
 folder:
 interviewee: Celeste Jordan
 interviewer: Justin Hawkins
+excerpt: 
 ---
 
 *J: What is your connection to the town? I know you said you were from somewhere else originally.*

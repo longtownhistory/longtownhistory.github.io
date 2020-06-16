@@ -2,6 +2,7 @@
 layout: oralhistory
 folder: huffman
 interviewer: Chavonté Wright
+excerpt: 
 ---
 
 **Tera:** I know a lot about my grandmothers family from Longtown. Her maiden name was McCown; her parents were Almina and Chalmer Okey. Almina’s maiden name was McCown. I haven’t researched a lot. That’s one of the reasons why I am here and hope to learn more from all of the objects everyone else brought. My great grandfather Chalmer Okey created a lot of rag rugs, which we brought--that’s one of the items that we brought--and a couple of articles. My grandmother was interviewed several times by the local newspaper about Longtown, so we brought those articles to hopefully help other people with questions that they have. 

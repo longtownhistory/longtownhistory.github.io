@@ -2,6 +2,7 @@
 layout: oralhistory
 folder: rickman
 interviewer: Justin Hawkins
+excerpt: 
 ---
 
 *J: And what object did you bring today?*

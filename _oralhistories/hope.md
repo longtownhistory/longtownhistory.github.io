@@ -2,6 +2,7 @@
 layout: oralhistory
 folder: hope
 interviewer: Victoria Jones
+excerpt: 
 ---
 
 *V: I noticed you brought in a few items today. Would you mind listing what those items are?*

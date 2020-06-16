@@ -2,6 +2,7 @@
 layout: oralhistory
 folder: cottman
 interviewer: Kennedi Johnson
+excerpt: "So I brought photographs of the Rickmans, including the one picture with my grandmother, Ora Francis Bass Rickman. I brought pictures of my grandparents, Dottie and Thomas Cottman, but Dottie being a Burden. Three sides of my family came from this area: the Cottmans, they lived on the Indiana side, and my second great grandfather Hiram Cottman and his wife Agnes Robbins Cottman are buried in the Alexander Cemetery on the Indiana side, which is not far (about 2.5 miles from here down where the ULI’s at). But they’re buried in what’s known as the Alexander cemetery, which was a cemetery tied in with the Alexander African Methodist Episcopal church. And my second great grandparents, Hiram and Agnes, were caretakers and house parents for students that attended the ULI, grounds keepers, took care of a lot of stuff back in the 1860s and 1870s."
 ---
 
 **Ricky:** Rickman [my first name], that’s a family name. I’m named for family on both sides.

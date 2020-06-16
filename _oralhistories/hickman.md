@@ -2,6 +2,7 @@
 layout: oralhistory
 interviewee: Julia Boatman and Loretta Taylor (neé Hickman)
 interviewer: Justin Hawkins
+excerpt: 
 ---
 
 J: Who do I have here today? 

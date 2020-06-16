@@ -1,3 +1,10 @@
+---
+layout: oralhistory
+folder: mason
+interviewee: Cleo Fay Goens Mason and Kristen Mason
+interviewer: Kennedi Johnson
+excerpt: 
+---
 Note:The voices, I can't figure out who they are in the beginning. I'm assuming that "Participant" is Cleo, but I'm not 100% sure. 
 
 Voice 1: something you need to take a picture of, or something that would be helpful for you to
@@ -10,9 +17,9 @@ Voice 2: Yeah, so start with J.
 Voice 1: I think I wrote J on the last thing I gave you.
 Voice 2: I thought it was I… and then you had J written on there?
 Voice 1: They had I, so then we thought….
-Kennedy Johnson: This is object 11, Kennedy Johnson.
+Kennedi Johnson: This is object 11, Kennedy Johnson.
 [chatter]
-Kennedy Johnson: We’re currently recording her discussion of objects.
+Kennedi Johnson: We’re currently recording her discussion of objects.
 Participant: and these are from her family.
 Kristen: Wait, she was born on March 30th too, like Justin?
 Participant: Uhuh.
@@ -29,41 +36,41 @@ so like the next letter will be for all 3 of those.
 [There is a lot of talking here which is very hard to understand, and it seems like they are
 just figuring out the logistics of copying her stuff. I didn’t transcribe all of it, but I can go
 back and do it if necessary]
-Kennedy Johnson: Can I ask you some questions?
+Kennedi Johnson: Can I ask you some questions?
 [more chatter about scanning items]
-Kennedy Johnson: Alright, hi! So, I’m Kennedy.
+Kennedi Johnson: Alright, hi! So, I’m Kennedy.
 Participant: You’re Kennedy?
-Kennedy Johnson: Yeah.
+Kennedi Johnson: Yeah.
 Participant: I have a great grand-son… daughter Kennedy.
-Kennedy Johnson: Oh you do? Ah, okay!
+Kennedi Johnson: Oh you do? Ah, okay!
 Participant: My older… my older daughters…
-Kennedy Johnson: Hmm. So, I was wondering if you could just describe, I know you’ve been doing
+Kennedi Johnson: Hmm. So, I was wondering if you could just describe, I know you’ve been doing
 this, but so I can have it one recording, a couple of the objects that stood out to you? I remember
 you talking about the lamp… can you talk about that one?
 Participant: The lamp? The lamp I merely brought in to indicate the extent of my life, I guess.
-Kennedy Johnson: Yeah? Mhm.
+Kennedi Johnson: Yeah? Mhm.
 Participant: That’s how I started out. When I first started school, that’s how we was reading by.
-Kennedy Johnson: Mhm, and you said you were born down the street?
+Kennedi Johnson: Mhm, and you said you were born down the street?
 Participant: I was born in the house that they’re restoring.
-Kennedy Johnson: Okay.
+Kennedi Johnson: Okay.
 Participant: Upstairs, I suppose… which way’s East and which way’s West? Do you know?
-Kennedy Johnson: I have no idea, I don’t know that one, haha. Not good at directions
+Kennedi Johnson: I have no idea, I don’t know that one, haha. Not good at directions
 Participant: I was born upstairs.
-Kennedy Johnson: Oh, okay.
+Kennedi Johnson: Oh, okay.
 Participant: There was two bedrooms upstairs, I was born… born in there.
-Kennedy Johnson: And what’s your, um, family name?
+Kennedi Johnson: And what’s your, um, family name?
 Participant: Family name?
-Kennedy Johnson: Yeah, what’s your last name I guess, and can you describe…
+Kennedi Johnson: Yeah, what’s your last name I guess, and can you describe…
 Participant: My last name…
-Kennedy Johnson: Or, what do you know about your last name and your family, as it relates to
+Kennedi Johnson: Or, what do you know about your last name and your family, as it relates to
 Longtown?
 Participant: What do I know about them?
-Kennedy Johnson: Mhm. I know you know a lot, but, so I can record it.
+Kennedi Johnson: Mhm. I know you know a lot, but, so I can record it.
 Participant: Um, it was a good start, I know it was. I started out with a kerosene lamp, and I came
 on up and I’m now here looking at things, and [???] time and space. I’ve really been through it,
 cuz I remember when we got our first battery radio. So, I was here before radios and before
 airplanes, and started down the road here. Is that enough?
-Kennedy Johnson: That’s fine! I have a lot more questions for you, if that’s okay! I’m sorry. So, your
+Kennedi Johnson: That’s fine! I have a lot more questions for you, if that’s okay! I’m sorry. So, your
 family stayed in this area the whole time, but you moved to Columbus, Ohio?
 Participant: I actually left, I left there and went to Dayton and worked at [???], the government
 for 10 years. Then, I went Columbus to a wedding and met someone there at that time, so a year
@@ -71,7 +78,7 @@ and a half or so later, married a Mason. And I stayed in Columbus. And, I’ve b
 now since, uh, I got married in 1952. I’m still here, and everybody else is gone. Now, I’ve got
 grandchildren and great-grandchildren, got two great-grandchildren coming along. Her brother,
 her oldest brother, have had their first grandchild.
-Kennedy Johnson: Oh, okay.
+Kennedi Johnson: Oh, okay.
 Kristen: You already were a great-grandma too, for Mason and Miles. How old is Miles?
 Like 11?
 Participant: [??], my daughter’s had two boys there… she’s got a… my daughter had a girl and a
@@ -81,23 +88,23 @@ Kristen: How old are you? Are you ready to tell her?
 Participant: How old am I?
 Kristen: How old are you gonna be? Did you tell her?
 Participant: I’m gonna be 95.
-Kennedy Johnson: Oh, wow.
+Kennedi Johnson: Oh, wow.
 Kristen: She says it so casual.
-Kennedy Johnson: My great-grandpa was the same. He, when he turned 102 he’d just be like “yeah,
+Kennedi Johnson: My great-grandpa was the same. He, when he turned 102 he’d just be like “yeah,
 I’m turning 102. What about it?” So…
 Participant: People tend to live life after a hundred now, because they don’t do that bad [???],
 what’s… how do you pronounce that word they use?
-Kennedy Johnson: The vaping?
+Kennedi Johnson: The vaping?
 Participant: Vaping! Every time I see one of those advertisements where they’re blowing that
 out, oh my goodness, why are they killing themselves?
-Kennedy Johnson: They didn’t do that when you were young?
+Kennedi Johnson: They didn’t do that when you were young?
 Participant: Heavens, no! They did cigars, I guess. Tobacco, but usually it was. Actually we used
 to grow some tobacco… not on our farms out here, they’re close to Palestine though, you
 remember in the past I was talking about that barn? Used to be for drying out tobacco. But, that
 was when I was just a little girl. They hadn’t run anything like that out here for years.
-Kennedy Johnson: So, I guess, do you have any childhood memories that you wanna talk about?
+Kennedi Johnson: So, I guess, do you have any childhood memories that you wanna talk about?
 Kristen: How about the schoolhouse?
-Kennedy Johnson: Oh, yeah.
+Kennedi Johnson: Oh, yeah.
 Participant: The school house, oh yeah. I went to school for the first year or two and we [???]
 building. One teacher didn’t like me, which is how I ended up sitting underneath the desk half
 the time when I was in third grade. He was a young man from here, a Holland man. Holland?
@@ -115,9 +122,9 @@ Participant: Ethel May… Ethel May Bass... That, no no she was a Stevens. Her m
 was the youngest Bass girl.
 Kristen: But where… you were teaching Sunday school? Here?
 Participant: Right here.
-Kennedy Johnson: How long did you teach Sunday school?
+Kennedi Johnson: How long did you teach Sunday school?
 Participant: I was probably just subbing then.
-Kennedy Johnson: Do you have any more childhood memories that you wanna share?
+Kennedi Johnson: Do you have any more childhood memories that you wanna share?
 Participant: I got my little iron I didn’t even think to pick that up. I’ve got a picture, I’ve got a
 little piece of iron and I got, a little old fashioned kind with a handle on it, and when [??] was
 ironing, I would get mine out and get over there, think I was ironing. And one time, she had
@@ -130,20 +137,20 @@ Participant: Well, we didn’t go very many places because we were always busy o
 my dad not only worked on the farm, he also went to, he got a job in Winchester, in Union City.
 And, my mother and I, we had to do the milking and the… that was the first car [???] bought.
 That’s from 1947 Ford!
-Kennedy Johnson: Oh, wow. That’s a nice car.
+Kennedi Johnson: Oh, wow. That’s a nice car.
 Kristen: I don’t know what [???]. They’re done with these ones though.
 Participant: Now, that’s my youngest brother, this I think is my older brother.
-Kennedy Johnson: How many siblings do you have?
+Kennedi Johnson: How many siblings do you have?
 Participant: Huh?
-Kennedy Johnson: How many brothers and sisters do you have?
+Kennedi Johnson: How many brothers and sisters do you have?
 Participant: Okay, so there’s two brothers, my little sister that died… that’s kinda the reason I
 was giving her that, there’s two of them that didn’t live. One of them didn’t live a day, the other
 one didn’t live about a week. And that was, that was them, that smaller book you have, no.
 Kristen: Oh they have it. They’re taking a picture of it. Oh, that was that car you were
 looking for. That was that throwback picture.
-Kennedy Johnson: So that’s a Model T? Who’s car was that?
+Kennedi Johnson: So that’s a Model T? Who’s car was that?
 Participant: That was my dad’s car.
-Kennedy Johnson: Your dad’s car?
+Kennedi Johnson: Your dad’s car?
 Kristen: [???] you inherited it.
 Participant: I didn’t inherit that one…
 Kristen: Oh, which one did you get?
@@ -157,49 +164,49 @@ Kristen: I remember… the ones we went through…
 Participant: Those books were in there.
 [more trying to figure out what something is]
 Participant: That’s the one where they bought the house of Sheridan.
-Kennedy Johnson: So that’s a deed? What house is that?
+Kennedi Johnson: So that’s a deed? What house is that?
 Participant: Well that’s, as I said, the one [????].
-Kennedy Johnson: Oh, wow.
+Kennedi Johnson: Oh, wow.
 Participant: They didn’t have that?
 Kristen: No, I don’t think they got that. They probably would want it, yeah.
 Participant: That’s what I was basing it on.
-Kennedy Johnson: Oh yeah?
+Kennedi Johnson: Oh yeah?
 Participant: See where they sold it to, my grandfather…
-Kennedy Johnson: Wow, in 1895.
+Kennedi Johnson: Wow, in 1895.
 Participant: That’s where I got that date.
-Kennedy Johnson: Okay, wow.
+Kennedi Johnson: Okay, wow.
 Kristen: You said, when you were talking with them to you said your mom… what did your
 mom make? Was known for her preserves or something?
 Participant: Oh, her strawberry preserves.
-Kennedy Johnson: Oh, yum!
+Kennedi Johnson: Oh, yum!
 Kristen: She was, like, famous…
 Participant: We had a strawberry patch, we had the best strawberries in town!
-Kennedy Johnson: Did you ever make some? Strawberry preserves?
+Kennedi Johnson: Did you ever make some? Strawberry preserves?
 Participant: Mhm, I did.
-Kennedy Johnson: What did you guys do on the farm? You said that you milked cows, right?
+Kennedi Johnson: What did you guys do on the farm? You said that you milked cows, right?
 Participant: Milked cows, [???] pigs, [??] pigs, drove ‘em to the patch, everything.
-Kennedy Johnson: Did you like working on the farm?
+Kennedi Johnson: Did you like working on the farm?
 Participant: I didn’t know any better, I was a little girl. I was the oldest, so I ended up being my
 mama and my daddy’s helper. That’s all I can remember, ‘cuz I was the oldest, and… The two
 boys that were born after I was born died. So, there’s five years difference between my older
 brother, and eight years difference between my youngest one. I was the oldest child.
-Kennedy Johnson: What do you think ‘freedom’ meant to your parents, your grandparents, your
+Kennedi Johnson: What do you think ‘freedom’ meant to your parents, your grandparents, your
 ancestors, or your family in general?
 Participant: Freedom? Yeah they [were or weren’t]1 free, they just worked all the time trying to
 make enough to keep from losing the farm!
-Kennedy Johnson: Yeah.
+Kennedi Johnson: Yeah.
 Participant: At that time… because they didn’t get paid anything. [????] on the farm. My mother
 would [???????????], you know, if you weren’t lazy, and did your work, you’d never be hungry.
 Or dirty. And she was right. It took all of our time to just, grow our food, eat our food, can our
 food.
-Kennedy Johnson: So that stuck with you?
+Kennedi Johnson: So that stuck with you?
 1 I can’t tell which she says
 Participant: [????] is what I did when I was a little girl. I didn’t have time for anything but work,
 and then garden work, pulling weeds, planting potatoes, you know. Cutting lettuce and whatever.
 I had all those things I could do.
-Kennedy Johnson: Well what does freedom mean to you, I guess?
+Kennedi Johnson: Well what does freedom mean to you, I guess?
 Participant: Freedom mean to me? Freedom. What kind of freedom?
-Kennedy Johnson: However you want to take it. I guess it’s an open question.
+Kennedi Johnson: However you want to take it. I guess it’s an open question.
 Participant: That’s an open question for freedom! I never thought much about that freedom.
 Kristen: You never thought about it?
 Participant: Freedom [????????????]. I didn’t even feel free on the farm, I had so much to do.
@@ -218,7 +225,7 @@ correct.
 2 I think this is what she said, but it was very muffled so I couldn’t quite tell.
 Participant: Yeah, we can’t really… Everybody has their own idea of what’s important. And you
 have to respect that.
-Kennedy Johnson: So, you talk to your kids and grandchildren a lot about this town? It seems like.
+Kennedi Johnson: So, you talk to your kids and grandchildren a lot about this town? It seems like.
 Participant: No, I never have time to talk to them anymore. Except my… she’s been away for a
 few years, so she’s back now. I could talk to her, [???] I’m saying, at least I’m [??] I can, but
 before she, we didn’t have much time to spend together except we always, we still, our birthdays
@@ -231,14 +238,14 @@ Kristen: But you don’t tell us about the, I feel like you told us when we came
 when we came here, you told us about it. And I remember you took us to the house when I was
 really little. But, you didn’t tell us that much about it, I didn’t feel like. I mean, well I don’t
 know. Are we still talking about freedom?
-Kennedy Johnson: Yeah! Yeah.
+Kennedi Johnson: Yeah! Yeah.
 Participant: I’ve lost contact with this house, because the people are new. A little older. I think I
 met more of them trying to do this than [????]. Another time I’d come and didn’t know who was
 who, because we didn’t even hear of these people. [??????????] pick up on history, that’s what
 you’re trying to do. Pick up on history.
 Rowan Smothers: Oh Cleo, Cleo was one of the first persons that, uh, found out about my discovery.
 About James Clemens. Her family owned the house which at that time was the [name]’s house.
-Kennedy Johnson: Okay.
+Kennedi Johnson: Okay.
 Rowan Smothers : And their family had bought it in about 1909, 1910, something about….
 Participant: 1895 [???].
 Kristen: They have it…
@@ -284,11 +291,11 @@ she picked up the wrong one.
 Kristen: These aren’t the ones you wanted?
 Participant: No, no. No. This is back in the 18’s.
 Kristen: Did you want them to take any? Okay.
-Kennedy Johnson: Alright, wait. Okay I’m recording. So, you’re the granddaughter of Cleo, right?
+Kennedi Johnson: Alright, wait. Okay I’m recording. So, you’re the granddaughter of Cleo, right?
 Kristen: Yes.
-Kennedy Johnson: Alright, and what’s your name?
+Kennedi Johnson: Alright, and what’s your name?
 Kristen: Kristen.
-Kennedy Johnson: Kristen. Okay, so, you’ve been brought up here before when you were little, you
+Kennedi Johnson: Kristen. Okay, so, you’ve been brought up here before when you were little, you
 were saying?
 Kristen: Yeah, when I was younger she brought me to the property to the farm where she
 was raised and everything.
@@ -344,9 +351,9 @@ Participant: [???] that water… that water was already piped in the house!
 Rowan Smothers: Yeah, but those pipes were probably pretty old. I gotta...In fact, the contractor… I
 gotta replace the roof now. The contractor that did the windows says we need the roof replaced.
 So, there’s still 150, 200 thousand dollars that’s still gonna need to go into that.
-Kennedy Johnson: And what’s your name? I didn’t get it on here.
+Kennedi Johnson: And what’s your name? I didn’t get it on here.
 Rowan Smothers: My name is Rowan Smothers.
-Kennedy Johnson: Rowan Smothers, okay. I’m Kennedy Johnson. Nice to meet you.
+Kennedi Johnson: Rowan Smothers, okay. I’m Kennedy Johnson. Nice to meet you.
 Rowan Smothers: In fact, this picture, do you know all these people?
 Participant: No, I don’t know any of ‘em.
 Rowan Smothers: Okay, that is Oliver Norton.
@@ -355,13 +362,13 @@ Rowan Smothers: That is Elizabeth Smith-Clemens-Norton. What she did is she marr
 Clemens, James Clemens’ son, and then she was a Smith, then she married Clemens, then she
 married Oliver Norton. That is Elijiah Clemens, that is James Clemens’ grandson. He was a
 physician in Dayton. Do you know anything about Dayton?
-Kennedy Johnson: Dayton, Ohio? I know a little bit.
+Kennedi Johnson: Dayton, Ohio? I know a little bit.
 Rowan Smothers: He lived right [??] Dunbar. And, in fact, he busted the block in the 1890 census.
 When it was still white, he was one of the few black people that were over there. And this guy I
 don’t know the name of. This would be my great-great-great uncle. His sister married my
 great-great-grandmother… no wait, grandfather, which is weird because I never thought I’d have
 a family connection with that, and suddenly Oliver Norton is up, and his sister married a [name].
-Kennedy Johnson: Yeah, wow.
+Kennedi Johnson: Yeah, wow.
 Rowan Smothers: Oh, okay. That’s William [name]. Is that when he first bought it?
 Participant: It’s when… I didn’t bring what I wanted.
 Rowan Smothers: Oh wow! That’s my, that’s his sister Cordelia. That’s the sister of Oliver Norton.
@@ -376,7 +383,7 @@ Rowan Smothers: Cordelia’s on there, right?
 Kristen: Can you tell me the names for these, so I can write them down for my
 grandmother?
 Rowan Smothers: Okay, that’s Oliver Norton…
-Kennedy Johnson: So, I just wanna to thank you for the interview, I really appreciate it. I have a LOT
+Kennedi Johnson: So, I just wanna to thank you for the interview, I really appreciate it. I have a LOT
 of material here.
 Participant: Did you get enough?
-Kennedy Johnson: I got a lot, yeah, thank you so much!
+Kennedi Johnson: I got a lot, yeah, thank you so much!

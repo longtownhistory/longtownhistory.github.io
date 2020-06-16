@@ -1,8 +1,9 @@
 ---
 layout: oralhistory
-folder:
+folder: smothers
 interviewee: Roane Smothers
 interviewer: Justin Hawkins
+excerpt: 
 ---
 
 *J: Can you explain who you are and the organization
