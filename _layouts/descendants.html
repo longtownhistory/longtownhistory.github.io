@@ -25,7 +25,7 @@ layout: page
 {% if oralhistory.excerpt == undefined %}
 {% else %}
 </div>
-<div class="col-s-6 col-md-4">{{ oralhistory.excerpt }}</div>
+<div class="col-s-6 col-md-4"><h2>{{ oralhistory.excerpt | markdownify}}</div>
 </div>
 {% endif %}
 
