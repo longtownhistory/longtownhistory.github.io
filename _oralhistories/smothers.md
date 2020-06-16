@@ -3,7 +3,7 @@ layout: oralhistory
 folder: smothers
 interviewee: Roane Smothers
 interviewer: Justin Hawkins
-excerpt: "My family was free a long, long, long time ago. Before whites even came to this country. I thought that this was an unusual occurrence, and I wanted to say that I learned that it’s not unusual. [Anna-Lisa Cox in *The Bone and Sinew of the Land*] found 336 pioneer African American settlements in the Northwest Territory, before the Civil War. So, it’s not an unusual occurrence, it happened all over. This community became so large, it took a long time to whittle the population down. Most, like my grandfather, in the 1920’s, his family left farming and took skills of carpentry and masonry to Richmond, Indiana.""
+excerpt: "My family was free a long, long, long time ago. Before whites even came to this country. I thought that this was an unusual occurrence, and I wanted to say that I learned that it’s not unusual. [Anna-Lisa Cox in *The Bone and Sinew of the Land*] found 336 pioneer African American settlements in the Northwest Territory, before the Civil War. So, it’s not an unusual occurrence, it happened all over. This community became so large, it took a long time to whittle the population down. Most, like my grandfather, in the 1920’s, his family left farming and took skills of carpentry and masonry to Richmond, Indiana."
 ---
 
 *J: Can you explain who you are and the organization that you are the president of?*
