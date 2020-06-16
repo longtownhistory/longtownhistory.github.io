@@ -1,6 +1,6 @@
 ---
 layout: oralhistory
-interviewee: Woodrow W. Rickman II
+folder: rickman
 interviewer: Justin Hawkins
 ---
 
