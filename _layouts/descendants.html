@@ -25,7 +25,15 @@ layout: page
 {% if oralhistory.excerpt == undefined %}
 {% else %}
 </div>
-<div class="col-s-6 col-md-4"><h2>{{ oralhistory.excerpt | markdownify}}</div>
+<DIV class="col-s-6 col-md-4" markdown=1>
+
+#### An interview with {{ page.title }}
+
+{{ oralhistory.excerpt | markdownify}}
+
+[Read more of this interview]({{ oralhistory.url }}){: .btn}
+
+</DIV>
 </div>
 {% endif %}
 
