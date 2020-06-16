@@ -1,0 +1,128 @@
+---
+layout: oralhistory
+interviewee: Woodrow W. Rickman II
+interviewer: Justin Hawkins
+---
+
+*J: And what object did you bring today?*
+
+Rickman: I brought photos, pictures of ancestors, people from around this area. Uh, Longtown,
+Philothea, Carthagena, which is up towards Celina, and family things.
+
+*J: Sure, and so what, how long has your family been in the area?*
+
+Rickman: A long time. Um, we have, Ricky Cotton has done a lot of research about people
+coming up from Virginia and things like this.
+
+*J: Do you know around what time?*
+
+Rickman: Maybe 1840’s, 1850’s. The Rickman family, they’ve settled in Philothea and
+Carthagena, which is up towards 1-27, towards Celina, the communities up there, very
+community like this . This was probably one of the biggest ones here in Longtown, Philothea and
+Carthagena were smaller. Mainly German, but very mixed population, uh, there were, you know,
+free blocks and people came up and there were a few people down in Anna, Ohio who came up,
+and the Randolph slaves, the Randolph farms people who probably [???????] that in history. Mr.
+Randolph, one of the signers of the, uh, the Declaration of Independence and yeah, he freed some
+slaves. We’re not really particular relation to them, our family came up, like I said, from
+Virginia, stuff like that. And history, you know, you lose history and records trail off. But, Ricky
+is providing a sheet that traces a lot of our family. I know our connection to Longtown here is
+Ricky and my, um, my father and Ricky’s mother, their mother was born here in Longtown. Her
+name was Ora Bass, and my grandfather, um, was from Carthagena, and he married Ora Bass
+here. They have children, my father and Ricky’s….
+
+*J: Now, when I was driving in I saw the Bass cemetery, so…*
+
+Rickman: Yeah, that was part of the family here, it was a big family here. My grandmother was
+born here, and then she moved to Philothea with my grandfather, Uria Rickman, and um…
+
+*J: Do you know what their occupations were?*
+
+Rickman: Yeah, they were farmers. My grandfather was a farmer, as many of these people
+were down in Carthagena, Philothea, it was, they had farms. And uh, my grandfather was one of
+about 9 sisters, I’ve provided some pictures, I don’t think there’s a picture of my grandfather
+there but his sisters are in there, and some of the census history lists his name, lists his families,
+my great-grandfather Uria, he was a Civil War veteran. He enlisted in 1864 and served for about
+a year, listed out of Cincinnati, and he’s listed in my Civil War records as brought up from their
+muster roles in the Civil War. And, uh, that’s the connection with him and they had about 6 other
+children. My grandfather Uria was like, probably one of the next to last born. Like I said, they
+had about 8 siblings and I’ve provided some pictures of the women especially. My aunt Mary…
+my great-great grandmother Mary, and her daughters. And, uh, that’s about it. My father… my
+great-grandfather came back from the Civil War and then they, they got their farm started over in
+Carthagena and Philothea, and then their son Uria is uh, my grandfather who married Ora Bass,
+from here. And that’s how my branch of the family and their children, Woodrow, my dad, I’m
+named after my dad, and Ricky, of course, his mother was Luis, she was the youngest in the
+Rickman family. And again, their mother was from here. So that’s how… that’s our connection.
+
+*J: Do you have any… Do you live in the area still, or?*
+
+Rickman: I live in St. Marys, yeah. I, uh, I live in St. Marys. I have sons who live in Madison,
+Wisconsin. They’re in their third year???????, started late. Uh, I have two grandchildren there.
+But yeah, I grew up in St. Marys.
+
+*J: Do you have any, uh, family traditions that you still do that connect you with….*
+
+Rickman: Well, we get together for a Rickman reunion, although we kinda stopped, my dad
+really enjoyed it and one of his brothers, a couple of his brothers, could make it but now they’ve
+all passed on. You know, my dad and my mom was the last, she was from Lima, my mother
+passed about 2 years ago. So, but my dad was 96, 97, and my mom was 98 when she passed,
+going on 99. So hopefully I got some of those longevity genes. And uh, yeah. We wanna try to
+start it again next year, in the summer. We’re gonna try and get the family together again. Ricky
+is pushing it, [???] is pushing it, and yeah. He has, his family, his side, like I said, his mom was
+the youngest of the family… the Rickman, the youngest daughter. She married Copman
+[?????bass], they were from over here. And Ricky and that part of the family, they grew up in
+Indiana. But they would always come over to visit, and we would go visit them. Mom and dad,
+Ricky’s mom and dad, they often met here when they were younger. When we were babies at
+best, you know, maybe a little older. But, uh they would meet here in this community and um,
+that’s about it!
+
+*J: I guess my last question for you would be, you know, what does ‘freedom’ mean to
+you, to your family, to this community?*
+
+Rickman: Oh, very important. You know, I’m a history student. I got a degree in history and,
+uh, I always follow this stuff, and you know this is, I’m always proud of this and my family,
+especially from the military side with my great-grandfather being in the Civil War, 15th United
+States Colored Troops. He was recruited in this area, in Cincinnati, so a Major of Cincinnati
+recruited people. My grandfather was in, all my uncles on both sides of the family, we’ve all, it’s
+a long tradition. My dad didn’t have to go in, he had, uh, medical problems. And when he did get
+it resolved, near the end of, well actually it was in 1944, uh, he was going to be drafted by the
+[?????], so they were not drafting men with children, so I was a year old I guess it was. So, I kept
+my dad out of the military. All my uncles, my dad’s brothers, they were all in the military. My
+mom’s… they were all World War II veterans. Uh, I have cousins, one of my dad’s sisters, lived
+here for a long time with her husband. Her son’s cousins were much older than me, but they
+grew up here. Uh, they were military. World War II. Korea. I myself am a Vietnam veteran. I
+served in Vietnam and I was in the Air Force for 6 years.
+
+*J: Do you have any stories about your great-grandfather? Did he see, uh, any action,
+or, no?*
+
+Rickman: No, we really don’t. You know, records get lost, and…
+
+*J: Right, yeah. It was a few generations ago.*
+
+Rickman: I know he enlisted sometime, it was like the summer of 1864, and he was in active
+duty through like, November of 1865 and then he was mustered out. He was a private, most
+soldiers were. And, we found some medical records. He was in a hospital, military hospital in
+Tennessee sometime like, uh, in the spring of around the time the war was ending, or
+something…
+
+*J: Do you know why he was in the hospital?*
+
+Rickman: No I don’t. You know, it’s just a very small record.
+
+*J: Yeah, you lost em.*
+
+Rickman: I found, uh, a record of when my, a great-grandmother applied for widow’s pension.
+It was her name and my great-grandfather Uria written. Other than that, I’m not, Ricky’s a little
+into more than I am, far as he’s a little better at it. Not that I don’t, I search things, I [????]
+ancestry, and that but, uh, the records, like I say, they get lost and destroyed and they’re old
+records. But, I have found, like I said, the widow’s pension application, a little medical record on
+my grandfather being in the military hospital and uh, I also found when he was a muster roles,
+roll called, and then when he was mustered out. I think I found something like that. He was, um,
+discharged from the army. It was like maybe November or December of 1865. Something like
+that.
+
+*J: Okay, great. Is there anything else that you wanted to tell us…*
+
+Rickman: No that’s all.
+
+*J: Great, thank you so much. I hope you can use that, and use it…...*   
