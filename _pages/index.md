@@ -24,8 +24,7 @@ This History Harvest, which took place in September 2019, is just one project am
 Descendants of the Greenville/Longtown community have been working for years to preserve their history in a variety of ways, including a [very active Facebook community-run historical preservation page](https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850/). This History Harvest is just one of those efforts. By bringing History Harvests and groundswell practices of community preservation to bear on the practices of traditional archival work, we can refocus the work of a historian. Traditional archives highlight the silence and the erasure of Black women; History Harvests, on the other hand, are more about abundance and joy, and the recentering of community voices that were once silent.
 
 </div>
-<div class="col-s-12 col-md-5" markdown=1>
+<div class="col-s-12 col-md-5">
 <div class="fb-page" data-href="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850" data-tabs="timeline" data-width="500" data-height="600" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850">Remembering Freedom: James Clemens and the Longtown Settlement</a></blockquote></div>
-
 </div>    
 </div>
