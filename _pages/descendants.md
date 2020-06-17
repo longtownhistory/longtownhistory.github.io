@@ -5,20 +5,11 @@ comments: false
 permalink: /descendants/
 ---
 
-<h2>Oral Histories</h2><ul>
-{% for oralhistory in site.oralhistories %}
-{% if oralhistory.folder == undefined %}
-	{% assign interviewee = oralhistory.interviewee %}
-{% else %}
-	{% assign contributor = site.descendants | where: "folder", oralhistory.folder  | first %}
-	{% assign interviewee = contributor.title%}	
-{% endif %}
-<li><a href="{{ oralhistory.url }}">{{interviewee}}</a></li>
-{% endfor %}
-</ul>
 
 > "By memory, those fond associations and ties of love which unite us together on earth, will be preserved in eternity...Memory should be cultivated. Like all other faculties of the mind and body, its vigor and activity depend on its exercise. The more the memory is exercised the stronger it becomes." -J. B. Harrison, Greenville Settlement, 1864
 
+<div class="row">
+<div class="col-s-12 col-md-8">
 <h2>Descendants' Historical Collections</h2>
 <div class="row listrecent"> 
 {% for descendant in site.descendants %}
@@ -48,3 +39,18 @@ permalink: /descendants/
 
 {% endfor %}
 </div>    
+
+</div>
+<DIV class="col-s-6 col-md-4" markdown=1>
+<h2>Oral Histories</h2><ul>
+{% for oralhistory in site.oralhistories %}
+{% if oralhistory.folder == undefined %}
+	{% assign interviewee = oralhistory.interviewee %}
+{% else %}
+	{% assign contributor = site.descendants | where: "folder", oralhistory.folder  | first %}
+	{% assign interviewee = contributor.title%}	
+{% endif %}
+<li><a href="{{ oralhistory.url }}">{{interviewee}}</a></li>
+{% endfor %}
+</ul>
+</DIV>

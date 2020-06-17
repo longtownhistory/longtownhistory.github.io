@@ -102,7 +102,14 @@ blockquote {
   }
 }
 
+.headerimage_title, .headerimage_subtitle, .headerimage_excerpt, .headerimage_excerpt, .headerimage_caption {
+	color: #fbf2e3;
+	font-weight: 800;
+}
 
+.navbar-light .navbar-toggler-icon {
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://ww…p='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

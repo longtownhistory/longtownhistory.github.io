@@ -2,15 +2,13 @@
 layout: default
 title: Home
 permalink: /test.html
-headerimage: /assets/images/LongtownSignAndSchool.jpg
+headerimage: /assets/images/Sommers_Homestead.jpg
+headerimagecredit: 
+headeroverlaycolor: "45, 20, 0" # RGB value
+headeroverlaypercent: 0.75 # on a decimal scale of 0 - 1
+headerexcerpt:  When I went to Palestine [Ohio] in junior high, it was so prejudiced, and then you know we’re free here, at home. This is home. This is safety. This is free.... No matter where you go, how old you are, when you go home, you’re home. That’s here. That’s Longtown.
+headerexcerptcredit: Patricia Hope, Longtown resident
 ---
-
-### The History of the free African American farming community of Greenville/Longtown
-
-
-
-> When I went to Palestine [Ohio] in junior high, it was so prejudiced, and then you know we’re free here, at home. This is home. This is safety. This is free.... No matter where you go, how old you are, when you go home, you’re home. That’s here. That’s Longtown.
---Patricia Hope, Longtown resident
 
 Since the 19th century rural black communities in the most anti-black and white-supremacist spaces have crafted ways to remember and preserve their *own* histories. Through their hard work and dedication, they acquired the resources to do so. Their definitions and realities of freedom had long lasting implications on future generations. 
 

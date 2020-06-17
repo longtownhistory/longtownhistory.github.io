@@ -10,7 +10,7 @@
     
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-<title>{% if title %}{{title}}{% else %}{{ page.title }}{% endif %} | {{site.name}}</title>
+<title>{% if title %}{{title}}{% else %}{{ page.title }}{% endif %} | {{site.title}}</title>
         
     
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -65,8 +65,8 @@ ga('send', 'pageview');
     
     <!-- Begin Logo -->
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-    <!--<img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">-->
-    {{ site.name }}</a>
+    <!--<img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.title }}">-->
+    {{ site.title }}: {{ site.subtitle }}</a>
     <!-- End Logo -->
   
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -128,28 +128,28 @@ ga('send', 'pageview');
     
 <div class="site-content">   
     
-<div class="container">
-    
 {% if page.headerimage %}
 <!-- Header Image instead of site title
 ================================================== -->
-<div class="headerimage_overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/LongtownSignAndSchool.jpg');">
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
-          The History of the free African American farming community of Greenville/Longtown
+<div class="headerimage_overlay" style="background-color: #000; background-image: {% if page.headeroverlaycolor %}linear-gradient(rgba({{ page.headeroverlaycolor }}, {{ page.headeroverlaypercent }}), rgba({{ page.headeroverlaycolor }}, {{ page.headeroverlaypercent }})), {% endif %}url('{{ page.headerimage }}');">
+    <div class="container">
+      <h1 class="headerimage_title" itemprop="headline">
+          {{ site.title }}{% if site.subtitle %}<h3 class="headerimage_subtitle" itemprop="headline">{{ site.subtitle }}</h3>{% endif %}
       </h1>
-        <p class="page__lead">When I went to Palestine [Ohio] in junior high, it was so prejudiced, and then you know we’re free here, at home. This is home. This is safety. This is free…. No matter where you go, how old you are, when you go home, you’re home. That’s here. That’s Longtown. –Patricia Hope, Longtown resident
+        <blockquote class="headerimage_excerpt">{{ page.headerexcerpt }}{% if page.headerexcerptcredit %}<p>--{{ page.headerexcerptcredit }}{% endif %}</blockquote>
 </p>
     </div>
-    <span class="headerimage-caption">Photo credit: TBD
+    {% if page.headerimagecredit %}<span class="headerimage_caption">Photo credit: {{ page.headerimagecredit }}{% endif %}
 </span>
 </div>
-
+<div class="container">
 {% else %}
+    
 <!-- Site Title
 ================================================== -->
+<div class="container">
 <div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
+    <h1 class="sitetitle">{{ site.title }}</h1>{% if site.subtitle %}<h3>{{ site.subtitle }}</h3>{% endif %}
 {% if page.url == "/" %}
     <p class="lead">
          {{ site.description }}
@@ -178,7 +178,7 @@ ga('send', 'pageview');
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
                  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-                  {{ site.time | date: "%Y" }} {{ site.name }} 
+                  {{ site.time | date: "%Y" }} {{ site.title }} 
             </div>
             <div class="col-md-6 col-sm-6 text-center text-lg-right">    
                 Credits: <a href="/about">The Longtown History Harvest team</a> and <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
