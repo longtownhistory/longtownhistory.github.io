@@ -1,0 +1,689 @@
+---
+layout: oralhistory
+interviewee: Ricky Spragia and Celeste Jordan Poke
+interviewer: Jazma
+excerpt:
+---
+
+[]: # (This is uncleaned, I just wanted to get it up for Kalani to be able to stylize the page)
+
+
+* Transcribers note: There were a lot of parts that were difficult for me to hear clearly. I wrote
+[????] for things I couldn’t get at all. Things that I could partially understand but wasn’t sure
+about, I italicized. I also made some footnotes in certain cases.
+
+*J: Jazma, oral history 9, Ricky Spragia. So, did you want to share a memory, a story…*
+
+**Ricky Spragia**: I’d like to share a story about how my folks come here and where they came from,
+okay?
+
+*J: Okay.*
+
+**Ricky Spragia**: I do go back to [?????] the area of North Carolina. Uh, some of the names you
+forget, that’s why I wanted her to come here so she can help me out with this. But, uh, I know
+they said that they came through the West Indies. So, their hair texture was different, they had
+Indian, West Indian people, mixed in. And, they came through North Carolina, and, um, it was
+with um, aww shucks I can’t think of the… Elliot! family that was with them. That’s why you’re
+gonna have to call me [???] till I get my papers again.
+
+*J: Okay, that’s fine!*
+
+**Ricky Spragia**: and, um, when he went into North Carolina he married and had one wife there in
+North Carolina, and something happened…
+
+*J: And, when they came to North Carolina were they free or enslaved?*
+
+**Ricky Spragia**: Uhh, I think they were slaves, they were enslaved.
+
+*J: Okay.*
+
+**Ricky Spragia**: and they followed this Elliot guy with them, and um, something happened there
+between the Elliot, this Elliot family, and it broke apart.
+
+*J: Is the Elliot family the enslaver, or?*
+
+**Ricky Spragia**: Yeah, the enslaver. That’s where the name comes from. And, the Smiths were also
+with them, another family that will later come into this. It’s hard for me to talk when you’re
+moving the…
+
+*J: Oh, I’m sorry.*
+
+**Ricky Spragia**: So anyway, um, they came across and they left there and went to Mississippi, Atawa,
+Ataba County, Mississippi is where this old slave house is, it’s still there today. Atawambi.
+
+*J: Atawambi1?*
+
+**Ricky Spragia**: Yeah, that’s a Smith, [?????].
+
+*J: Is that a Native American name? The Atawambi?*
+
+**Ricky Spragia**: Yeah, that’s a Native American name.
+
+*J: Okay.*
+
+**Ricky Spragia**: Uh, my folks are mixed with American Indians, also the Indians that lived in the
+Alabama region. Uh, so, he died but all those Elliot’s, they were skilled workers. So, there’s a
+branch that left out, I can’t think of… it’s in that book. You ever seen… it’s snead , the story’s in
+that book.
+
+*J: Which book?*
+
+**Ricky Spragia**: The snead book, it was out there. Snead2 and bones . A lot of that story is in there.
+Well, anyway…
+
+*J: Is it by, um, Annalisa Cox?*
+
+**Ricky Spragia**: Yeah!
+
+[]: # (1 I can’t quite make out what he said here… I believe he is referencing Itawamba County, MS.//
+2 It sounds like he is saying “snead,” but I believe he is referencing the book Bones and Sinew of the Land. I didn’t
+quite know how to transcribe this bit.)
+
+*J: Oh, okay.*
+
+**Ricky Spragia**: She did a story on the Elliot’s stuff, part of the Elliot family, Cornelius.
+
+*J: I didn’t know that.*
+
+**Ricky Spragia**: Yeah, Cornelius. They moved to that county that’s on the state line of Alabama. See,
+it’s complicated, okay? But anyway, they were there for a while and they left there, and there
+was a, aw shucks I can’t even think of my folks’ name now, but anyway, the Elliot family lived
+in that area of Mississippi right next to the state line by, um, Timbogwes3 Waterway, or
+something there, and then there’s Alabama and there’s Carbon Hill area, uh, that county in
+Alabama, oh lord I can’t even think of this.
+
+*J: And it’s fine if you don’t remember the exact names.*
+
+**Ricky Spragia**: Right, you gotta call me if you wanna get all of this correctly [????].
+
+*J: Yeah, and that’s fine.*
+
+**Ricky Spragia**: I’ve been up since 5:30 this morning, so.
+
+*J: Me too.*
+
+**Ricky Spragia**: [??????], so. Anyway, the Smiths was there too, in these communities of Winfield,
+Alabama, that’s…
+
+*J: It came back to you.*
+
+**Ricky Spragia**: And Lamar County, was one of them. And, I can’t think of the other county but there
+was a concentration of the Smiths and [????], oh I can’t think of the names, and they’re all
+intermixed in those communities because the y wasn’t allowed outside [????], it had wagons. So,
+they interbred and stuff, and, uh, so anyway, there’s a lot of interbreeding in here, double cousins
+3 After doing some research, I think he was most likely referencing the Tennessee-Tombigbee Waterway.
+and stuff, and one of the Smiths took off and headed straight up from Alabama across Tennessee
+and Kentucky and ended up in Orange County, and you’ve heard of Orange County?
+
+*J: Yeah.*
+
+**Ricky Spragia**: Okay, there’s a settlement there. They used to call it Little Africa…
+
+*J: I’ve heard of that.*
+
+**Ricky Spragia**: Okay. Anyway, they stayed around French Lick and stuff, in the area, and he
+became, he bought land there.
+
+*J: Who’s ‘he’? Ivy?*
+
+**Ricky Spragia**: Ivy Smith and Cleo Smith
+
+*J: Brothers?*
+
+**Ricky Spragia**: Uh, no, that’s his wife Cleo.
+
+*J: Oh, um, okay!*
+
+**Ricky Spragia**: And they started bringing more relatives, followed them from there and they ended
+up moving into around french Lick, and then from there they moved up here.
+
+*J: To…?*
+
+**Ricky Spragia**: Around Longtown.
+
+*J: Okay.*
+
+**Ricky Spragia**: Longtown covers a big area
+
+*J: Yeah, so I was gonna ask….*
+
+**Ricky Spragia**: They moved to Union City, which is the South Side of here…
+
+*J: Indiana?*
+
+**Ricky Spragia**: No, Ohio and Indiana, it’s right on the state line like this.
+
+*J: Okay, okay.*
+
+**Ricky Spragia**: [???????]. When I first moved here I lived on the Ohio side, and when I started
+working for phone companies I moved over here.
+
+*J: See, somebody asked me that recently, um, how did the border play into, like, where
+they decided to settle and this is back….*
+
+**Ricky Spragia**: You know why they settled there? Because if somebody … a slave hunter was after
+somebody, they cross that state line and get away with it. So there was another wealthy guy
+besides the Clements, was called Anderson, he lived over at Winchester on the [?????] side, and
+you had the Clements farm over here. They were very wealthy farmers, this story can get really
+long and I will probably bounce you back….
+
+*J: Okay, that’s fine!*
+
+**Ricky Spragia**: Uh, so these people, I’ve noted, have been up here for a while. My mother, [?????],
+well my mother came after the Second World War. She left Alabama and moved to Mississippi.
+Then they came to Chicago, that’s where I came around. But, the Smiths were intermarried into
+the Cottmans?4, you know the guy that’s coming to the get-together?
+
+*J: Yeah, Ricky Cottman?*
+
+**Ricky Spragia**: Yeah, Ricky, to the Smiths. And, they lived up at Portland in Jade County, I lived in
+Randolph County. They, they connect. And so, but, we didn’t know each other. But, my mother
+knew that we had kinfolks here, so she told me don’t be dating anybody here, because I may end
+up marrying a cousin. Uh, and she married, then we got a divorce and she married another cousin
+of hers. I don’t think she knew that, the Bourbons. So, we’re…
+4 Can’t quite make out the name
+
+*J: All of these names are familiar to me.*
+
+**Ricky Spragia**: [????], I’m half Italian.
+
+*J: Um, from…*
+
+**Ricky Spragia**: My folks, my dad was born in Milwaukee, Wisconsin in 19.., aw shucks, man he
+always [???] was born in the 1800’s… My grandmother wanted to go back to Europe. So, she
+begged her husband to go back to Europe. They already had a food stand and everything, and
+doing, you know, business, business in Milwaukee. They took the two boys back, well the two
+and the two sisters. And, the other guy was over in Europe. So, when they went back, the war
+broke out.
+
+*J: Who was in Europe?*
+
+**Ricky Spragia**: Um, my other uncle.
+
+*J: Okay.*
+
+**Ricky Spragia**: Let me tell you about them… their name is spelled different too. So anyway when
+the war broke out, before the war broke out, Mussolini’s side had taken over. “No Americans in
+my country! No! Not so whatsever.” So, they separated the family, sent them to the US, the two
+brothers Noah and Victor, Victor’s my father. That’s on his side. So, he moved here, and…
+
+*J: Moved where?*
+
+**Ricky Spragia**: To, uh, they moved to New York first, and then came to Chicago… well, Hammond,
+Indiana.
+
+*J: Oh I know where Hammond, I’m fr….*
+
+**Ricky Spragia**: They had an uncle up there that owned an ice cream plant. Okay? Now prohibition is
+going on, broke out, and my dad became a bootlegger with the ice cream maker, his uncle.
+
+*J: And, this is still in Chicago? Or Hammond?*
+
+**Ricky Spragia**: Hammond. But, the story goes that they put the five gallon ice cream and loaded it
+up with whiskey. Now I’m gonna stop that right there with my father, okay? But my mom met
+him in Chicago. She was married to a Benny Flannigan before that, from Mississippi. So, that’s
+how I came around and they met together and, um…
+
+*J: So, um…*
+
+**Ricky Spragia**: They couldn’t marry though, back then. It was illegal to mixed marry with a white, a
+caucasian.
+
+*J: So her first husband was white?*
+
+**Ricky Spragia**: Black. Her second husband never was her husband. They couldn’t…
+
+*J: They couldn’t marry…*
+
+**Ricky Spragia**: Because of the laws.
+
+*J: Gotcha.*
+
+**Ricky Spragia**: And I was born before those laws were broken. But, he was always there, and took
+care of me and stuff. So, I was his only child and my mother’s only child. How I got here is
+another story. I was getting in trouble when I was around, oh, 12 years old, I started getting in a
+lot of trouble in Chicago. And, I had a problem with identity, self-identity, too. I didn’t know
+what I was. I was very light complected, people thought I was white, they would call me
+“hookies”...
+
+*J: How did your mom identify herself? Like, so, in your household…*
+
+**Ricky Spragia**: My mother was black.
+
+*J: Okay.*
+
+**Ricky Spragia**: She was about, like, your complexion. But her hair was wavy, she’s got that mixture
+of West Indies. So, anyway, she told me a lot of history about my, my folks. And my mother
+always went down South to visit her people, so I had the history of everybody. They were coal
+miners, they worked in the salt mines and a lot of different things and then split up. The Elliots
+were very smart. The Elliots still think they better than anybody. I went to school down there, I
+was sent down to Alabama, my uncle and cousin came up to pick me up and took me down there
+when I was like in the 6th grade.
+
+*J: So, did your family intermarry with the Elliots? Like was there, was there any….*
+
+**Ricky Spragia**: The Elliots is my mother, but she’s, I never had that name. I had the name of
+Flannigan. I changed my name to my dad’s name.
+
+*J: Okay, because I thought that Elliot’s, is that name of the enslav...they took their last
+name. Okay, that’s what you told me, okay.*
+
+**Ricky Spragia**: All these people took the last names…
+
+*J: Yeah.*
+
+**Ricky Spragia**: [???], okay? So, where am I? See, I’m splitting it. It’s almost like 4 or 5 stories I’m
+telling it, so it branches off.
+
+*J: So, who were the first to come to Longtown in your mom’s family? Was it her
+mother?*
+
+**Ricky Spragia**: Smiths.
+
+*J: Okay, and…*
+
+**Ricky Spragia**: Ivy Smith and Cleo Smith.
+
+*J: Okay, and that was who to your mom again?*
+
+**Ricky Spragia**: They came to Indiana first. That’s my mother’s sister, Smith.
+
+*J: Okay, and what…*
+
+**Ricky Spragia**: She was married, like my mother, okay?
+
+*J: And when did they come about?*
+
+**Ricky Spragia**: Um, about 19…. now wait a minute, the Smiths came up here in about 1830’s or
+something like that, about 1830’s. They…
+
+*J: Smith is a familiar name I’ve seen.*
+
+**Ricky Spragia**: Right, the Smith Road. So anyways, they built a house over here and they had some
+children up here. But then, they moved. The family split up. And, the Cottman side of this family
+live up in Portland, um, my great-great-great-great uncle by the name of, aw shucks I wanna say
+Abraham but it’s not, but thats, uh…
+
+*J: Abraham Cottman? Cuz I know he’s kin to Ricky Cottman…*
+
+**Ricky Spragia**: Yeah, but this is a Smith.
+
+*J: Oh, okay, okay.*
+
+**Ricky Spragia**: But they live up there, the Smith married into the Cottman family.
+
+*J: In Cabin Creek?*
+
+**Ricky Spragia**: Yeah.
+
+*J: The other black settlement in Randolph County.*
+
+**Ricky Spragia**: Right, they met with them, and that’s how become kin to them
+
+*J: Gotchyou.*
+
+**Ricky Spragia**: The Enis’s follow the Smith’s up here to Union City, later years.
+
+*J: How’s that name spelled?*
+
+**Ricky Spragia**: E-N-I-S
+
+*J: Okay, I haven’t seen that one yet.*
+
+**Ricky Spragia**: Alright, but you’ve seen that name too…
+
+*J: I haven’t seen Enis!*
+
+**Ricky Spragia**: They lived up, they live up in Union City. They split apart, they was a conflict with
+the Elliot’s and the.. and them. Cuz the Elliot’s, remember I told you, had money and they had
+farms, they were poor, they were lowlives. So, when I come up here, I was taught that. That I
+was better than them. The Mongomery’s are my family too. But, we don’t have those [???]. They
+lived up in the city. They broke out to Fort Wayne.
+
+*J: And I probably haven’t came across some of these names because my research kind
+of stops at the Civil War. So, I’m only looking between about 1820 and the latest is 1870, so a
+lot of this part is after what I’ve found out so far, so…*
+
+**Ricky Spragia**: Right, right, so you probably don’t know any of this either. Right after the Civil
+War…
+
+*J: So, I’m still trying to figure out where did these families go?*
+
+**Ricky Spragia**: Okay, now I’m telling you, the one’s down at there, one part of this family stopped
+in Kentucky. See, and Kentucky was like a waiting station to cross the river. Some went to
+Louisville, okay? Some, one of the Elliots went to Louisville and the other ones went over to
+Orange County, came into the settlement there. Did I tell you what it was called?
+
+*J: Little Africa.*
+
+**Ricky Spragia**: Yeah, they have a nice school there and everything that’s been restored and stuff.
+With the Black Expo, they’re usually there.
+
+*J: Do you know, Little Africa, never mind… okay.*
+
+**Ricky Spragia**: What? Tell me something.
+
+*J: Oh no no no no no, I was gonna ask… I was trying to recollect the name of the
+settlement, but it was Little Africa.*
+
+**Ricky Spragia**: Well they called it that. They just cleaned the cemetery and a Boy Scout troop, I just
+took a Boy Scout troop down and we cleaned it up. Cleaned the cemetery up and stuff to get the
+identities of people and stuff…
+
+*J: So, did your mom…*
+
+**Ricky Spragia**: Uh, my uh, we also had a kin, a kin lady that taught school. Her name was Leora
+Brown.
+
+*J: Leora Brown.*
+
+**Ricky Spragia**: Right. That’s some of my relatives…
+
+*J: Taught school where?*
+
+**Ricky Spragia**: Around that county, Orange County.
+
+*J: Okay, around Orange County.*
+
+**Ricky Spragia**: At that settlement. [????] school. Leora. So you’ve heard of her name?
+
+*J: No.*
+
+**Ricky Spragia**: Okay, she’s, she’s an interesting…
+
+*J: Because, because I’m way back.*
+
+**Ricky Spragia**: This is way back, this is in the 1800’s. The people, the Smith’s people…
+
+*J: Okay, so if it was in Jade County then it would have been out of...*
+
+**Ricky Spragia**: No no no no, this was down there. They wandered up here. All these people stopped
+somewhere and then came down, because some places would not allow….
+
+*J: That’s important to know.*
+
+**Ricky Spragia**: Black’s to come in and then they moved them on, so these different settlements like
+Snow Hill and all that stuff, it’s opened up because they wouldn’t allow them. After displace got
+so filled up, they didn’t allow people here.
+
+*J: Who didn’t allow people here?*
+
+**Ricky Spragia**: Darke County [???].
+
+*J: And how did… do you know how it…*
+
+**Ricky Spragia**: Have you ever heard of self-racism? Within communities [?????]. Oh, they didn’t
+want to claim me when I come here. It was, very standoffish.
+
+*J: That is very, very interesting. And I’m trying to figure out, like, those type of
+documents of course don’t exist anymore for the time period I’m looking at, but when I hear
+people speak of Longtown I only hear, I hear the good things.*
+
+**Ricky Spragia**: Yeah, you don’t hear about what happened here though. There was people excluded
+from [????????].
+
+*J: So, did it make a difference in Cabin Creek and Greenville, or was it in all three
+settlements the same type of…*
+
+**Ricky Spragia**: It was…
+
+*J: Was one more…*
+
+**Ricky Spragia**: No, no. There was all [???]. There was, uh, different things. The Greenville place
+over there, they, that place, settlement was there back when I first moved here. I went over there
+and there was, like a bunch of, row of, uh, they wanna hide this. Like, a row of… the fellow that
+was there can tell you about Greenville.
+
+*J: Who?*
+
+**Ricky Spragia**: The guy who was here taking the pictures and stuff. Remember, the black guy who
+was here?
+
+*J: I wasn’t… just right now? I wasn’t paying attention! I’m sorry.*
+
+**Ricky Spragia**: He lived in Greenville. He came from North Carolina. But, he’s not a part of the
+family but he knows everybody because he went to school here.
+
+*J: Can you introduce me to him when we’re done?*
+
+**Ricky Spragia**: Yeah.
+
+*J: Okay, show me who he is? That is…*
+
+**Ricky Spragia**: Yeah, cuz he didn’t know I was [???] everybody around here but he always went
+over to my Cleo, the Smith’s house. But, it never dawned on him who I was. So, I didn’t tell him
+until afterwards. Way afterwards. I kept it hid.
+
+*J: Because I know Greenville is becoming one of the most, like according to census
+records, Greenville had the highest, the largest amount of black property owners. Like, the
+owned the most land of any Indiana county.*
+
+**Ricky Spragia**: Right, and Ohio too.
+
+*J: Yeah, on both sides.*
+
+**Ricky Spragia**. On both sides. Now, my folks own land in Ohio. [???]. They have a small [??] farm
+there.
+
+*J: Okay.*
+
+**Ricky Spragia**: So, anyway….
+
+*J: You were telling me about the row of houses, or the row of something at the…*
+
+**Ricky Spragia**: The row of house, [????], see I don’t know the name of the street, might, uh… hold
+on for a sec.
+
+*J: Okay.*
+
+**Ricky Spragia**: They came up here to pig farms and everything, and to work with horses and stuff.
+My folks on the Smith side, they came to farm here. To work for, um… [AUDIO JUMPS AT
+19:17] talking about races, and that’s why they sent me down South. Tell you a story. She told
+me “boy, you don’t know nothing. We went up here in Chicago, you think you’re white,” and all
+this kind of stuff. She just let me have it. She says “I’m sending you down South to learn
+something,” just before the Civil Rights Law was actually wrote. When I went to school down
+there, they asked me what school did I want, white or black? So I had to sign a freedom of choice
+thing saying I wanted to go to the white school, or the black school in Randolph Co… not… in
+Franklin County, Alabama. New to me, but I had been going to school with whites so I wanted to
+go with blacks, so I picked that. Lord have mercy. They started… The women loved me. “Oooh,
+your hair!” “Ooh your hair is so nice!” “And your skin!” Oh God there was a… them girls was
+all over me. It made, it made the brothers mad at me! You know, and stuff. It was something
+else. So, two years of that and I had my little puppy love there and stuff and I went back to
+Chicago and I hated it. I was in an upper grade, so in the 8th grade you have to take the US
+constitution test of the state and the federal, to graduate out of the 8th grade and go into high
+school. If you don’t pass that, you stay in…
+
+*J: It was kinda the same for us in high school.*
+
+**Ricky Spragia**: Right, this was in high school, but the 8th grade to get into high school.
+
+*J: Okay.*
+
+**Ricky Spragia**: And Illinois is strict on that. So, I had to come back up here and then I left here and I
+went down to Metropolis, Illinois, to another black settlement down there. I went to school, I
+went to the Job Corps down there.
+
+*J: We have one in Joliet, Illinois where I’m from, the Job Corps.*
+
+**Ricky Spragia**: Right, this was a conservation corps. This was like a CC camp, you ever heard of CC
+camps?
+
+*J: No.*
+
+**Ricky Spragia**: Okay, during the Depression, the [??] service had CC camps. That’s who planted all
+those trees. Well, I was in one of those, there was only 200 of us. And, uh, we had skilled trades
+there. Like heavy equiptment, you know, running machinery, union painting. It was run by the
+union.
+
+*J: So, did you learn any of that from any of the farming skills…*
+
+**Ricky Spragia**: No, the farming skills I learned from my relatives.
+
+*J: Okay.*
+
+**Ricky Spragia**: Okay. All that stuff, that carpentry work I learned from the Elliots.
+
+*J: And… okay wow! Carpentry and what else?*
+
+**Ricky Spragia**: The Elliots are carpenters. And, they are also miners for iron, and in Carbon Hill,
+Alabama. That’s another place down there. Carbon Hill is in that same settlement that everybody
+mixed in. That’s where the double-first cousin and, uh, my, it’s my mother’s aunt and
+double-first cousin. And I said, “that’s strange.” I said, “that’s brothers and sisters!” And she
+said, “Mhmm, [???].” So anyway, there’s a whole separate family there. They grew up into
+Boston, Massachusetts and stuff, and here.
+
+*J: There’s a lot of migrating, a lot of movement.*
+
+**Ricky Spragia**: They’re moving all the time, because at one time during the 1800’s, they had to
+move because they were, they were shifted from one town to another one because of the
+headhunters coming after them, or trying to put them back in slavery. So, they was always
+running and that’s why they went to Kentucky, because of the woods, the forest. And they come
+up through Orange County, that’s Hoosier National Forest. Makes sense?
+
+*J: Yeah.*
+
+**Ricky Spragia**: They can hide. They come here to hide because the state lines.
+
+*J: And even the… what do you mean by that?*
+
+**Ricky Spragia**: Okay, if somebody was after, let’s say the Clements who lived over here, and there
+was an escaped slave or something come up through here, they would help them out through the
+Underground Railroad, okay? Lynn, Indiana, you ever been through Lynn and all that? Fountain
+City?
+
+*J: I’ve been to the Levi Coffin house and stuff there.*
+
+**Ricky Spragia**: Alright, that’s the Underground Railroad, comes up from Cincinnati. And they also
+took the canal up there, the Erie Canal. And so,
+
+*J: I’ve read that.*
+
+**Ricky Spragia**: Right, they come up through Pickaway and stuff, that’s where that other settlement
+is, called, uh, Rossfield.
+
+*J: So they would come here and the Clements would send them, where?*
+
+**Ricky Spragia**: The Clements were here. They had money, they come up here with some money. His
+master give him money. Just like the Anderson’s and the Elliots, too, had money too. They all
+migrated up this way, and the Smiths. Okay? That’s still in the 1800’s. So, I’ve taken, what I’ve
+been told, the history that I’ve been talking to, what I have written and what I have went into
+ancestry.com and all that that we do, I got it more and more in-depth, I got it printed out.
+*J: Okay.*
+
+**Ricky Spragia**: Okay, up to, um, with the Cottmans, the Smiths, the Elliots. There’s no Elliots up
+here no more. They’re buried at another black cemetery that’s called Snell Cemetery.
+
+*J: I’ve never heard of that one, I’ve heard of Alexanders, Clements, and Bass.*
+
+**Ricky Spragia**: Snell, Snell is at Union City.
+
+*J: Okay*
+
+**Ricky Spragia**: Outside of Union City at the Ohio side.
+
+*J: Okay. I’ll have to remember that one because this is my first time hearing of it…*
+
+**Ricky Spragia**: I’m telling you, it was a segregation with black folks here. When I came here, they
+were fighting each other.
+
+*J: Every time I go to Randolph County, I have yet, I have yet to see any black people
+there.*
+
+**Ricky Spragia**: Oh, yeah. The Klan was here heavy too. Where I’m living at in Lafayette, there’s
+something else. Celeste!
+
+*J: Okay, so before we… I just wanna ask you one more question, then we can pause it.*
+
+**Ricky Spragia**: Okay. I was gonna have her to just, help… she doesn’t know about some of the stuff
+that’s here and some of the conflicts they had here and stuff, I was telling her the bad side of the
+stuff too. And Mike knows about that black settlement in Greenville, what I was telling you
+about. and Mike knew the name of the street and everything. It’s not there, ‘cause when I first
+moved here and everything the people were still living here, they were picking tomatoes. But
+that was the settlement then. There was another one in Celina, Ohio, too, another settlement up
+there. They were picking crops here, they used to grow asparagus, all kinds of stuff.
+**Celeste Jordan Poke**: And she knows about Anna-lise, right?
+*J: Mhm*
+
+**Celeste Jordan Poke**: Okay, and have you read the Blood and Sinew?
+
+*J: Yeah, I have.*
+
+**Celeste Jordan Poke**: You have. Okay.
+
+**Ricky Spragia**: Anyway, what I’ve told you, some of it’s in that book. Yeah…
+
+**Celeste Jordan Poke**: Well this… okay. I gave him fodder for this because this is very interesting to
+[??]. Okay? I owe you 20 bucks. I told Rowan to check, to tell you this book is 20 bucks. I’ll
+give it to you [??]. Okay, here’s the deal.
+
+**Ricky Spragia**: Well, I have to pay him through a card.
+
+**Celeste Jordan Poke**: Okay.
+
+**Ricky Spragia**: I can mail him a check.
+
+**Celeste Jordan Poke**: You can mail him a check.
+
+**Ricky Spragia**: I’ll mail him a check.
+
+**Celeste Jordan Poke**: okay. So here’s the deal. When I was young, probably about 10 years old, maybe,
+I don’t have much to go on here yet. So my grandmothers takes me into the town that I live in,
+which was in Illinois. And there’s several members of the family there, some talking to each
+other, some not. All of them melangien, all of them very fair-skinned.
+
+*J: Hey, can I have your name? I’m sorry…*
+
+**Celeste Jordan Poke**: Celeste Jordan Poke
+
+*J: Okay.*
+
+**Celeste Jordan Poke**: SO, she takes me over to this couple’s house. They must have been 90 [??]. So, if
+I was 10, so… they were old. My grandmother wasn’t as old as they were, okay? And she felt it
+was very important for me to meet them, and all she said was “these people were very
+important.” And I didn’t… there was a weight to the way she said it, and I was thinking “oh, well
+these are some people that she knew back in Arkansas where she was from. So, I wasn’t really
+thinking too much about it, except that I knew who they were. The son’s name, the gentleman’s
+name was Percy Baker. [????] but I don’t remember [???].
+*J: And where was this at?*
+
+**Celeste Jordan Poke**: This was in Glencoe, Illinois.
+
+*J: Okay.*
+
+**Celeste Jordan Poke**: Now, since this period of time, back when I was a child, I found out that in Lake
+Forest, in Northern parts of Illinois, there were Underground Railroad stops there! That was a
+revelation to me because we had never heard that before. So, anyway, I had said to Rick, looking
+at the census one of the things you always can see is the other families that lived in the row
+houses next to the family, you know? And I had come across the Bakers several times there, and
+I said “hmm, I wonder if this was his family, his parents, that I’m looking at, that I’m looking at
+the 1850 or 1860 census, okay? So now, there are pictures that my family has of people, like
+picnicking in the grass together. But, they’re fully dressed and they’re 18th century clothes. And
+they’re all sitting around, in this like picnic spot. I’m like, why the heck would they, in their
+fancy clothes, be sitting on a picnic, you know, table cloth, all sitting together there.
+
+*J: And this is in Illinois?*
+
+**Celeste Jordan Poke**: This is, I don’t know really, okay?
+
+*J: Okay.*
+
+**Celeste Jordan Poke**: So, I’m thinking, hmm this is interesting. So, are they near a settlement? And so
+they all gathered together at the settlement to take a picture that had some kind of reference to
+them, you know? But, in seeing this, I had seen something else about this and I said, well, maybe
+my grandmother was trying to say….
+
+*J: Can I see the title?*
+
+[ mumbling]
+
+**Celeste Jordan Poke**: And so I said, well maybe this was his children. Maybe, these are the descendants
+of the Bakers that brought families there, and I do know that my family has Quaker roots. In fact,
+one of my grandmother’s sisters went to Earlham College very early on. She graduated from a
+school called Southland College that was in Arkansas.
+
+*J: So, when did your family come to this area?*
+
+**Celeste Jordan Poke**: Well, this is the question. Whether there’s some kind of connection between my
+family coming from Virginia and crossing over and coming to Chicago. The story I have is that
+they came to Chicago to work for Polen in the 1880's. But that, when I asked my older cousin,
+well, how did they get…. 
