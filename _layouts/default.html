@@ -17,8 +17,7 @@
     
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:300,300i,400,400i,700,700i" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed&family=Roboto+Slab&display=swap" rel="stylesheet">
 
     
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
@@ -67,7 +66,7 @@ ga('send', 'pageview');
     <!-- Begin Logo -->
     <a class="navbar-brand" href="{{ site.baseurl }}/">
     <!--<img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">-->
-    Remembering Greenville: Longtown History Harvest</a>
+    {{ site.name }}</a>
     <!-- End Logo -->
   
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -133,6 +132,20 @@ ga('send', 'pageview');
     
 <!-- Site Title
 ================================================== -->
+
+{% if page.headerimage %}
+<div class="headerimage_overlay" style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/LongtownSignAndSchool.jpg');">
+    <div class="wrapper">
+      <h1 id="page-title" class="page__title" itemprop="headline">
+          The History of the free African American farming community of Greenville/Longtown
+      </h1>
+        <p class="page__lead">When I went to Palestine [Ohio] in junior high, it was so prejudiced, and then you know we’re free here, at home. This is home. This is safety. This is free…. No matter where you go, how old you are, when you go home, you’re home. That’s here. That’s Longtown. –Patricia Hope, Longtown resident
+</p>
+    </div>
+    <span class="headerimage-caption">Photo credit: TBD
+</span>
+</div>
+{% else %}
 <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
 {% if page.url == "/" %}
@@ -141,6 +154,7 @@ ga('send', 'pageview');
     </p>
 {% endif %}
 </div>
+{% endif %}
 
     
     
