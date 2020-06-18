@@ -11,7 +11,7 @@ headerexcerptcredit: Patricia Hope, Longtown resident
 ---
 
 <div class="row">
-<div class="col-s-12 col-md-7" markdown=1>
+<div class="col-s-12 col-md-7">
 
 <p>Since the 19th century rural black communities in the most anti-black and white-supremacist spaces have crafted ways to remember and preserve their <em>own</em> histories. Through their hard work and dedication, they acquired the resources to do so. Their definitions and realities of freedom had long lasting implications on future generations.</p>
 
