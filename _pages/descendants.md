@@ -41,7 +41,7 @@ permalink: /descendants/
 </div>    
 
 </div>
-<DIV class="col-s-6 col-md-4" markdown=1>
+<div class="col-s-6 col-md-4">
 <h2>Oral Histories</h2><ul>
 {% for oralhistory in site.oralhistories %}
 {% if oralhistory.folder == undefined %}
