@@ -24,7 +24,7 @@ permalink: /descendants/
             <h2 class="card-title">
                 <a href="{{ descendant.url }}">{{ descendant.title }}</a>
             </h2>
-                <h4 class="card-text">View items from the collection of <a href="{{ descendant.url }}">{{ descendant.title }}</a></h4>            
+                <p style="line-height:1.1em;">View items from the collection of <a href="{{ descendant.url }}">{{ descendant.title }}</a></p>            
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
