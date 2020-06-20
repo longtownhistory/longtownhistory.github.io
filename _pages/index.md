@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /test.html
+permalink: /
 headerimage: /assets/images/Sommers_Homestead.jpg
 headerimagecredit: 
 headeroverlaycolor: "45, 20, 0" # RGB value
