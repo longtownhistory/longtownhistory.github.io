@@ -1,0 +1,42 @@
+# longtownhistory.github.io
+## Remembering Freedom Longtown History Harvest
+
+The Greenville Settlement was one of the earliest and most prosperous rural Black communities in the states of Indiana and Ohio. Much of what once existed of the settlement is no longer there. The Clemens farmstead, a declining ULI building, and three cemeteries (one neglected in the middle of a white-owned farm) are what remain of the settlement in its physical form.
+
+The settlement has been preserved in the memories of its descendants. The descendants’ grassroots preservation work takes shape in a variety of ways: archiving historical documents and artifacts, attaining historical markers, restoring old buildings, registering buildings on the National Register of Historic Places and as an Underground Railroad site by the National Park Service, and maintaining a very active descendant-run Facebook page.
+
+This History Harvest, which took place in September 2019, is an exciting addition to those preservation practices.
+
+Communities hoping to build their own history harvest using this repository can copy it and then use the elements that best suit their community needs:
+
+### The initial setup
+
+1. Registering a GitHub user is the first step. Choose a username that represents your project well, because that's what the URL will be if you're using the free version of Github Pages
+2. Create a repository called "<username>.github.io"
+3. Copy the contents of this repository into it.
+4. Enable Github Pages in settings
+5. Make changes to the file called "_config.yml" in the main repository directory
+
+### Putting the basics together
+
+The best way to create a community history harvest is to look through the files in this repository and see what they do in the public-facing web site.
+
+Compare the files at https://github.com/longtownhistory/longtownhistory.github.io/ with the pages that display at https://longtownhistory.github.io/
+
+- Descendants (found in the "descendants" folder) are the members of the community whose memories and heirlooms are preserved. Some descendants may have memories, some may have items, some may have both. Each descendant should have a "folder" name so that their items and memories can be easily tied together. The "title" field should contain their full name.
+- Items (found in the "items" folder) are the individual heirlooms preserved by descendants. The YAML front matter or metadata has information about the item. This is always at the beginning of each individual item file, and the information here helps organize and present items as part of a descendant collection and as part of the multi-family collection. Each item should have a unique id (e.g. 15h or smithville1) and the folder name that helps connect that item to the descendant who preserved it.
+- Memories (found in the "oralhistories" folder) are individual memories preserved by descendants. As with items, the lines at the beginning of each oral history file help connect those memories to the descendants and their collections. For interviewees who don't have associated collections of physical items, we add their full name here.
+
+These basics are displayed by using the ["collections" feature of Jekyll](https://jekyllrb.com/docs/step-by-step/09-collections/). Collections are described in the main "_config.yml" file.
+
+Once your community has made decisions about which of these features it needs, find the items, descendants, and memories examples that best fit your community's needs. Keep those files and delete the rest. Copy and paste the content from these files and use them as templates to preserve your community's history.
+
+### Adding images
+
+Item images are found in the "/assets/items" folder. Items can have many photos associated with them. Simply name the photo with the item's unique ID and then an underscore and a number (e.g. 15g_1.jpg, 15_2.jpg).
+
+Each item should also have a smaller thumbnail (cropped to 768 pixels square on both sides) and named after the item id with a "_th" added (e.g. 15h_th.jpg)
+
+### Customizing colors and fonts.
+
+Most of the customization can be done in the file at "/assets/css/main.scss". If your community chooses to change fonts, the new font will need to be embedded in the "/_layouts/default.html" file on line 20.
