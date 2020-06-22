@@ -12,7 +12,7 @@ Communities hoping to build their own history harvest using this repository can 
 ### The initial setup
 
 1. Registering a GitHub user is the first step. Choose a username that represents your project well, because that's what the URL will be if you're using the free version of Github Pages
-2. Create a repository called "<username>.github.io"
+2. Create a repository called "*username*.github.io"
 3. Copy the contents of this repository into it.
 4. Enable Github Pages in settings
 5. Make changes to the file called "_config.yml" in the main repository directory
