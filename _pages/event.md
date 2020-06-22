@@ -2,44 +2,55 @@
 layout: default
 title: Home
 permalink: /event
+headerimage: https://scontent-ort2-1.xx.fbcdn.net/v/t31.0-8/1622546_610203625726859_1053089703_o.jpg?_nc_cat=110&_nc_sid=e3f864&_nc_ohc=27UWyhLUnBQAX-Oh948&_nc_ht=scontent-ort2-1.xx&oh=e9bc6a448383e3f21da77c9c38baa767&oe=5F14AE31
+headerimagecredit: 
+headeroverlaycolor: "45, 20, 0" # RGB value
+headeroverlaypercent: 0.75 # on a decimal scale of 0 - 1
+headerexcerpt: When I went to Palestine [Ohio] in junior high, it was so prejudiced, and then, you know, we’re free here at home. This is home. This is safety. This is free.... No matter where you go, how old you are, when you go home, you’re home. That’s here. That’s Longtown.
+headerexcerptcredit: Patricia Hope, Longtown resident
 ---
 
-Jazma contacted Lori, who runs the facebook page, and Ricky after seeing things about the homecoming. We asked permission to do the homecoming, and Brenda Jett was our next contact as the homecoming organizer. She asked permission fromthe pastor of the church, and from there, Jazma and Laurie worked to post event info Longtown/Greenville descendants
+An initial contact between one of our academic historians, Jazma Sutton, one of the community partners, Lori Archey (who runs the Facebook page), and [Roane Smothers](https://www.wyso.org/post/longtown-descendants-breathe-new-life-historic-mixed-race-settlement), whose tours of the settlement are a core part of an annual homecoming event, became a series of conversations about the community need to have an easy-to-use centralized platform that anchored a stable archive. We asked permission to participate in the homecoming, working with Brenda Jett, the homecoming organizer. She, in turn, asked permission from the pastor of the church at which the homecoming's main event happens, and from there, Jazma and Lori worked to post event info Longtown/Greenville descendants.
 
-Roane provided a tour here (link), and you can also see some of the preservation efforts
+Homecoming events like the one at which the history harvest took place are evidence of how the community sees its past as a source of identity and a guide for future conduct. The oral histories rooted in the built environment itself, in an ancestral home, centered and provided a platform for Black voices. The choice of voice or heirloom--or neither or both--as part of the preservation effort helped acknowledge the silences in archives that depend mostly on physical objects to anchor a community’s history.
+
+Roane provided an oral history of the settlement itself, and you can also see some of the preservation efforts
 
 - Tour will link from here
 - Photos of the event will link from here
 
-___
+### The cast of characters
 
-This online archive sits at the intersection of several historians' efforts, an ongoing community self-preservation effort that is centuries in the works, and a History-Harvest tradition that supports all of these practices.
+This online archive sits at the intersection of several efforts: an ongoing community self-preservation effort that is centuries in the works, an academic history of black women's voice in historical archives, and a series of history harvests at Indiana University Bloomington. In all of these settings, our consideration of labor practices and its historical inequalities, was central. We acknowledge the importance of the voices that contributed to this archive.
 
-As we explored the theory bhind digial public engagement, we began to engage more deeplyw ith the community's need to own and manage their own history and we began to think more fully about how institutional support and partnership in stabilizing the content from the FB page might help support the community need to have an easy-to-use centralized platform that fed a stable archive.
+#### The descendants:
 
+{% for oralhistory in site.oralhistories %}
+{% if oralhistory.folder == undefined %}
+- [{{oralhistory.interviewee}}]({{ oralhistory.url }})
+{%endif%}
+{% endfor %}
+{% for descendant in site.descendants %}
+- [{{descendant.title}}]({{ descendant.url }})
+{% endfor %}
 
-<!-- Labor also matters http://www.neatline.org/credits/ and look at our credits page so that you can see how people contributed and how we acknowledge the iportance of those contributions from a variety of places.-->
+#### IUB homecoming participants:
 
-The historians:
-
-- 1 academic historian of Black women's history
-- 1 community historian who organized the Longtown reunion and gave permission
-- 1 community historian whose preservation efforts are visible in a very active facebook page
-- 1 community historian whose preservation efforts are visible in the practical organizing of practical archival stuff (Jazma help!)
-- 1 community historian whose work on a family history can be seen here in this History Harvest and whose work as a visually-impaired historian structures much of the accessbiility of both her work and this archive
-- 1 community historian whose work devloping a tour of Longtown gives onlien readers access to the built environment fo Longtown and greenville.
-
-The descendants:
-- List from items and oral histories with room to add folks
-
-The History Harvest crew:
-- Jazma
-- Chavonte
-- Michelle
+- Jazma Sutton
+- Chavonté Wright
+- Michelle Moyd
 - Justin
 - Kennedi
 - Victoria
+
+#### IUB history-harvest support team:
+
 - Kalani
 - Maks
 - Lillian
 - Matt
+
+
+### Land acknowledgement
+
+Greenville and Longtown are on the traditional land of the Miami, Shawnee, and Kiikaapoi (Kickapoo) Peoples.
