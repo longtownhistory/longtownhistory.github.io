@@ -33,10 +33,24 @@ Once your community has made decisions about which of these features it needs, f
 
 ### Adding images
 
-Item images are found in the "/assets/items" folder. Items can have many photos associated with them. Simply name the photo with the item's unique ID and then an underscore and a number (e.g. 15g_1.jpg, 15_2.jpg).
+Item images are in the ["/assets/collections"](https://github.com/longtownhistory/longtownhistory.github.io/tree/master/assets/collections) folder, nested in a folder named for each descendant. Items can have many photos associated with them. Simply name the photo with the item's unique ID and then an underscore and a number (e.g. 15g_1.jpg, 15_2.jpg).
 
 Each item should also have a smaller thumbnail (cropped to 768 pixels square on both sides) and named after the item id with a "_th" added (e.g. 15h_th.jpg)
 
 ### Customizing colors and fonts.
 
-Most of the customization can be done in the file at "/assets/css/main.scss". If your community chooses to change fonts, the new font will need to be embedded in the "/_layouts/default.html" file on line 20.
+Most of the customization can be done in the file at ["/assets/css/main.scss"](https://github.com/longtownhistory/longtownhistory.github.io/blob/master/assets/css/main.scss).
+
+#### Color choices
+
+Web-based platforms use something called "hex color": a 6-digit color "ID" with 2 digits each for red, green and blue. For instance, bright red is #cc0000. Choose colors here: [https://htmlcolorcodes.com/color-picker/](https://htmlcolorcodes.com/color-picker/). Search and replace our colors with yours:
+
+- light background: fbf2e3
+- nav-bar text: faf5e8
+- headers: 592a07
+- links: 733d15
+- visited links: 9f6233
+
+#### Font choices
+
+Web-based platforms also need to load special fonts each time a new page is loaded. [Google Fonts](fonts.google.com) provides fonts free of charge and has an easy to use "embed code" creator. If your community chooses to change fonts, the new font will need to be embedded in the "/_layouts/default.html" file on line 20 and changed in the main.scss file on lines 8, 37, 41.
