@@ -33,7 +33,7 @@ These basics are displayed by using the ["collections" feature of Jekyll](https:
 
 Once your community has made decisions about which of these features it needs, find the items, descendants, and memories examples that best fit your community's needs. Keep those files and delete the rest. Copy and paste the content from these files and use them as templates to preserve your community's history.
 
-### Editng items and adding images
+### Editing items and adding images
 
 Have a look at the video walkthrough version of this at: https://youtu.be/aqMoGK50vt0
 
