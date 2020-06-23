@@ -11,6 +11,8 @@ Communities hoping to build their own history harvest using this repository can 
 
 ### The initial setup
 
+Have a look at the video walkthrough version of this at: https://youtu.be/LM-w5wZvtJo
+
 1. Registering a GitHub user is the first step. Choose a username that represents your project well, because that's what the URL will be if you're using the free version of Github Pages
 2. Create a repository called "*username*.github.io"
 3. Copy the contents of this repository into it.
@@ -18,8 +20,6 @@ Communities hoping to build their own history harvest using this repository can 
 5. Make changes to the file called "_config.yml" in the main repository directory
 
 ### Putting the basics together
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LM-w5wZvtJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The best way to create a community history harvest is to look through the files in this repository and see what they do in the public-facing web site.
 
@@ -33,11 +33,15 @@ These basics are displayed by using the ["collections" feature of Jekyll](https:
 
 Once your community has made decisions about which of these features it needs, find the items, descendants, and memories examples that best fit your community's needs. Keep those files and delete the rest. Copy and paste the content from these files and use them as templates to preserve your community's history.
 
-### Adding images
+### Editng items and adding images
+
+Have a look at the video walkthrough version of this at: https://youtu.be/aqMoGK50vt0
+
+Items are the easiest place to start. Add a new item by copying and pasting the elements of an existing item into a new item by using the "Create File" button when you're inside the \_items folder.
 
 Item images are in the ["/assets/collections"](https://github.com/longtownhistory/longtownhistory.github.io/tree/master/assets/collections) folder, nested in a folder named for each descendant. Items can have many photos associated with them. Simply name the photo with the item's unique ID and then an underscore and a number (e.g. 15g_1.jpg, 15_2.jpg).
 
-Each item should also have a smaller thumbnail (cropped to 768 pixels square on both sides) and named after the item id with a "_th" added (e.g. 15h_th.jpg)
+Each item should also have a smaller thumbnail (cropped to 768 pixels square on both sides) and named after the item id with a "\_th" added (e.g. 15h_th.jpg)
 
 ### Customizing colors and fonts.
 
@@ -55,4 +59,4 @@ Web-based platforms use something called "hex color": a 6-digit color "ID" with 
 
 #### Font choices
 
-Web-based platforms also need to load special fonts each time a new page is loaded. [Google Fonts](fonts.google.com) provides fonts free of charge and has an easy to use "embed code" creator. If your community chooses to change fonts, the new font will need to be embedded in the "/_layouts/default.html" file on line 20 and changed in the main.scss file on lines 8, 37, 41.
+Web-based platforms also need to load special fonts each time a new page is loaded. [Google Fonts](fonts.google.com) provides fonts free of charge and has an easy to use "embed code" creator. If your community chooses to change fonts, the new font will need to be embedded in the "/\_layouts/default.html" file on line 20 and changed in the main.scss file on lines 8, 37, 41.
