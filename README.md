@@ -19,6 +19,8 @@ Communities hoping to build their own history harvest using this repository can 
 
 ### Putting the basics together
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LM-w5wZvtJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The best way to create a community history harvest is to look through the files in this repository and see what they do in the public-facing web site.
 
 Compare the files at https://github.com/longtownhistory/longtownhistory.github.io/ with the pages that display at https://longtownhistory.github.io/
