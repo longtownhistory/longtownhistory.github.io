@@ -39,14 +39,14 @@ This online archive sits at the intersection of several efforts: an ongoing comm
 - Jazma Sutton
 - Chavonté Wright
 - Michelle Moyd
-- Justin
-- Kennedi
+- Justin Hawkins
+- Kennedi Johnson
 - Victoria
 
 #### IUB history-harvest support team:
 
-- Kalani
-- Maks
+- Kalani Craig
+- Maks Szostalo
 - Lillian
 - Matt
 
