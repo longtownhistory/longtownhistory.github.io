@@ -21,16 +21,10 @@ layout: default
     
 </section>
 
-
-{% if static_file.path contains 'th' %}{% capture ItemImagePath %}assets/collections/{{ page.itemdescendant }}/{{ page.itemgroupid }}{% endcapture %}
-{% else %}{% capture ItemImagePath %}assets/collections/{{ page.itemdescendant }}/{{ page.itemid }}{% endcapture %}
-{% endif %}
+{% capture ItemImagePath %}assets/collections/{{ page.itemdescendant }}/{{ page.itemid }}{% endcapture %}
 {% for static_file in site.static_files %}
-{% if static_file.path contains 'th' %}
-{% elsif static_file.path contains ItemImagePath %}
-
-<img src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">
-{% endif %}
+{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains "_th" %}<img src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">
+{% endunless %}{% endif %}
 {% endfor %}
 
 
@@ -49,7 +43,7 @@ layout: default
 		</div><!-- end element -->
 	<div id="dublin-core-description" class="element">
 	<h4>Description</h4>
-				<div class="element-text">{{ page.shortdesc }}</div>
+				<div class="element-text">{%if page.shortdesc%}{{ page.shortdesc }}{%else%}{%if page.itemurl %}<a href="{{ page.itemurl }}" target="_blank">{% endif %}<div class="element-text">{{ page.itemgroupname }}</div>{%if page.itemurl %}</a>{% endif %}{%endif%}</div>
 		</div><!-- end element -->
 	<div id="dublin-core-contributor" class="element">
 	<h4>Descendant</h4>
@@ -65,4 +59,4 @@ layout: default
 		</div><!-- end element -->
 </div><!-- end element-set -->
 
-* Note that our Dublin Core metadata labels for "contributor" and "creator" have been adjusted to better reflect the nature of these heirlooms as created and contributed by many generations of Longtown and Greenville descendants.
+* Note that our Dublin Core metadata labels for "contributor" and "creator" have been combined and relabelled to better reflect the nature of these heirlooms as ha created and contributed by many generations of Longtown and Greenville descendants.
