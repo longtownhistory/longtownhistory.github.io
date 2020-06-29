@@ -2,6 +2,6 @@
 layout: descendants
 folder: collins
 title: Gladys Collins
-mainitem: 10
+mainitem: 10a
 ---
 
