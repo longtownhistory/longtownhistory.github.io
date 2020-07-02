@@ -18,15 +18,17 @@ layout: default
     {% if page.itemid %}<p>{{ page.shortdesc }}{% endif %}
     {{content}}
     </div>
-    
+   
 </section>
 
-{% capture ItemImagePath %}assets/collections/{{ page.itemdescendant }}/{{ page.itemid }}{% endcapture %}
+{% capture ItemImagePathMultiple %}assets/collections/{{ page.itemdescendant }}/{{ page.itemid }}_{% endcapture %}
+
+{% capture ItemImagePathSingle %}assets/collections/{{ page.itemdescendant }}/{{ page.itemid }}.{% endcapture %}
+
 {% for static_file in site.static_files %}
-{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains "_th" %}<img src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">
+{% if static_file.path contains ItemImagePathMultiple or static_file.path contains ItemImagePathSingle %}{% unless static_file.path contains "_th" %}<img src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">
 {% endunless %}{% endif %}
 {% endfor %}
-
 
 <div class="element-set">
 
@@ -59,4 +61,4 @@ layout: default
 		</div><!-- end element -->
 </div><!-- end element-set -->
 
-* Note that our Dublin Core metadata labels for "contributor" and "creator" have been combined and relabelled to better reflect the nature of these heirlooms as ha created and contributed by many generations of Longtown and Greenville descendants.
+* Note that our Dublin Core metadata labels for "contributor" and "creator" have been combined and relabelled to better reflect the nature of these heirlooms as created and contributed by many generations of Longtown and Greenville descendants.
