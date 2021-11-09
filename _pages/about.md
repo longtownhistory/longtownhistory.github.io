@@ -17,12 +17,12 @@ The historians:
 - 1 academic historian of Black women's history
 - 1 community historian who organized the Longtown reunion and gave permission
 - 1 community historian whose preservation efforts are visible in a very active facebook page
-- 1 community historian whose preservation efforts are visible in the practical organizing of practical archival stuff (Jazma help!)
+- 1 community historian whose preservation efforts are visible in the practical organizing of the collection
 - 1 community historian whose work on a family history can be seen here in this History Harvest and whose work as a visually-impaired historian structures much of the accessbiility of both her work and this archive
 - 1 community historian whose work devloping a tour of Longtown gives onlien readers access to the built environment fo Longtown and greenville.
 
 The descendants:
-- List from items and oral histories with room to add folks
+- [Longtown's descendants](https://longtownhistory.github.io/descendants/)
 
 The History Harvest crew:
 - Jazma
