@@ -27,8 +27,6 @@ headerexcerptcredit: Patricia Hope, Longtown resident
 <p>His words have transcended time and space and continue to resonate in our present moment​.</p>
 </div>
 <div class="col-s-12 col-md-5">
-  <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v13.0" nonce="J0cfuH1n"></script>
 <div class="fb-page" data-href="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Remembering-Freedom-James-Clemens-and-the-Longtown-Settlement-170627093017850/">Remembering Freedom: James Clemens and the Longtown Settlement</a></blockquote></div>
 </div>  
 </div>
